@@ -1,445 +1,445 @@
-,product,age,domicile,gender,marriage,dependent,work,net,savings,functionality,admin_fee,limit,interest,initial_deposit,overall,invest,long_trm_svg,other_purpose,daily_life
-0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,4,4,3,1,3,0,1,0,1
-1,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,2,3,2,2,3,0,0,0,1
-2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,4,3,1,4,0,0,0,1
-3,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,2,1,3,1,1,0,0
-4,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,3,4,3,1,3,0,0,0,1
-5,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,20-30%,4,2,3,3,1,4,0,1,0,1
-6,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,4,3,1,4,0,0,0,1
-7,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,4,2,4,0,0,0,1
-8,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,3,3,2,2,3,0,0,0,1
-9,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,4,3,2,3,0,0,0,1
-10,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Karyawan Swasta,10-15 juta,5-10%,3,3,4,3,1,3,1,1,0,1
-11,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,4,3,3,3,0,1,0,1
-12,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,3,4,4,3,1,4,0,1,0,1
-13,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,3,4,4,1,2,3,1,1,0,1
-14,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,3,3,3,2,3,0,1,0,1
-15,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,2,4,2,2,3,1,1,0,1
-16,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,4,4,4,0,0,0,1
-17,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,3,3,3,2,2,3,0,1,0,0
-18,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,2,4,1,1,0,0
-19,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,1,2,1,3,1,1,0,0
-20,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,2,1,4,1,1,0,1
-21,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,4,3,2,3,0,0,0,1
-22,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,2,2,1,3,0,1,0,0
+,product,age,domicile,gender,marriage,dependent,work,net,savings,functionality,admin_fee,limit,interest,initial_deposit,overall,invest,daily_life,long_trm_svg,other_purpose
+0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,4,4,3,1,3,0,1,1,0
+1,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,2,3,2,2,3,0,1,0,0
+2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,4,3,1,4,0,1,0,0
+3,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,2,1,3,1,0,1,0
+4,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,3,4,3,1,3,0,1,0,0
+5,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,20-30%,4,2,3,3,1,4,0,1,1,0
+6,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,4,3,1,4,0,1,0,0
+7,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,4,2,4,0,1,0,0
+8,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,3,3,2,2,3,0,1,0,0
+9,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,4,3,2,3,0,1,0,0
+10,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Karyawan Swasta,10-15 juta,5-10%,3,3,4,3,1,3,1,1,1,0
+11,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,4,3,3,3,0,1,1,0
+12,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,3,4,4,3,1,4,0,1,1,0
+13,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,3,4,4,1,2,3,1,1,1,0
+14,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,3,3,3,2,3,0,1,1,0
+15,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,2,4,2,2,3,1,1,1,0
+16,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,4,4,4,0,1,0,0
+17,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,3,3,3,2,2,3,0,0,1,0
+18,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,2,4,1,0,1,0
+19,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,1,2,1,3,1,0,1,0
+20,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,2,1,4,1,1,1,0
+21,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,4,3,2,3,0,1,0,0
+22,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,2,2,1,3,0,0,1,0
 23,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,1,1,3,1,0,0,0
-24,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,1,4,1,1,4,0,1,0,0
-25,Tabungan Berjangka,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,15-20 juta,10-20%,4,3,3,3,1,4,0,1,0,0
-26,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,2,3,1,3,1,1,0,1
-27,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,4,4,2,3,2,1,1,0,0
-28,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,1,4,1,1,0,1
-29,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Mahasiswa,5-10 juta,1-5%,4,4,4,4,2,4,0,1,0,1
-30,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,2,3,0,0,0,1
-31,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,1-5%,3,3,3,3,3,3,0,1,0,1
-32,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,2,3,4,0,1,0,1
-33,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,3,1,4,1,1,0,0
-34,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,2,1,4,1,0,0,1
-35,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,4,4,4,0,1,0,1
-36,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,3,3,3,4,0,0,0,1
+24,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,1,4,1,1,4,0,0,1,0
+25,Tabungan Berjangka,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,15-20 juta,10-20%,4,3,3,3,1,4,0,0,1,0
+26,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,2,3,1,3,1,1,1,0
+27,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,4,4,2,3,2,1,0,1,0
+28,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,1,4,1,1,1,0
+29,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Mahasiswa,5-10 juta,1-5%,4,4,4,4,2,4,0,1,1,0
+30,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,2,3,0,1,0,0
+31,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,1-5%,3,3,3,3,3,3,0,1,1,0
+32,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,2,3,4,0,1,1,0
+33,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,3,1,4,1,0,1,0
+34,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,2,1,4,1,1,0,0
+35,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,4,4,4,0,1,1,0
+36,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,3,3,3,4,0,1,0,0
 37,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,15-20 juta,5-10%,4,4,4,4,1,4,0,1,1,1
-38,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,4,4,1,4,0,0,0,1
-39,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,3,3,1,3,0,1,0,1
-40,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,1-5%,3,3,3,3,2,3,0,1,0,1
-41,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,> 20 juta,5-10%,3,3,3,1,2,3,0,0,0,1
-42,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,1,4,0,0,0,1
+38,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,4,4,1,4,0,1,0,0
+39,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,3,3,1,3,0,1,1,0
+40,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,1-5%,3,3,3,3,2,3,0,1,1,0
+41,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,> 20 juta,5-10%,3,3,3,1,2,3,0,1,0,0
+42,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,1,4,0,1,0,0
 43,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,> 30%,2,3,3,3,1,3,1,1,1,1
 44,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,3,4,1,1,3,1,1,1,1
-45,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,1-5 juta,1-5%,3,4,3,1,2,3,0,0,0,1
-46,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,> 30%,4,3,3,4,3,3,1,1,0,1
-47,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,3,3,3,3,1,1,0,1
-48,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,0%,3,2,3,2,3,2,0,1,0,1
-49,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,4,4,1,1,0,1
-50,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,4,3,3,1,3,0,1,0,0
-51,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,4,1,1,3,1,1,0,0
-52,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,2,4,0,0,0,1
-53,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,4,4,1,3,0,0,0,1
-54,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,4,2,1,1,0,1
-55,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,4,4,2,1,3,0,0,0,1
-56,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,2,2,2,2,2,3,0,0,0,1
-57,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,2,1,2,2,3,3,0,0,0,1
-58,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,5-10%,2,2,3,3,4,2,1,1,0,1
-59,Tabungan Medium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,20-30%,3,3,3,3,2,3,1,1,0,0
-60,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,1,3,1,1,0,0
-61,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,4,4,4,0,0,0,1
-62,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,4,1,4,0,0,0,1
-63,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,3,3,1,1,3,0,0,0,1
-64,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,3,4,4,1,4,0,1,0,1
+45,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,1-5 juta,1-5%,3,4,3,1,2,3,0,1,0,0
+46,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,> 30%,4,3,3,4,3,3,1,1,1,0
+47,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,3,3,3,3,1,1,1,0
+48,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,0%,3,2,3,2,3,2,0,1,1,0
+49,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,4,4,1,1,1,0
+50,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,4,3,3,1,3,0,0,1,0
+51,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,4,1,1,3,1,0,1,0
+52,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,2,4,0,1,0,0
+53,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,4,4,1,3,0,1,0,0
+54,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,4,2,1,1,1,0
+55,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,4,4,2,1,3,0,1,0,0
+56,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,2,2,2,2,2,3,0,1,0,0
+57,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,2,1,2,2,3,3,0,1,0,0
+58,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,5-10%,2,2,3,3,4,2,1,1,1,0
+59,Tabungan Medium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,20-30%,3,3,3,3,2,3,1,0,1,0
+60,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,1,3,1,0,1,0
+61,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,4,4,4,0,1,0,0
+62,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,4,1,4,0,1,0,0
+63,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,3,3,1,1,3,0,1,0,0
+64,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,3,4,4,1,4,0,1,1,0
 65,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Lainnya,< 1 juta,1-5%,2,2,2,1,1,3,1,0,0,0
-66,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,3,3,1,3,0,1,0,1
-67,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,4,4,3,0,0,0,1
-68,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,3,1,4,1,1,0,1
-69,TabunganKu,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,2,4,2,2,4,0,0,0,1
+66,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,3,3,1,3,0,1,1,0
+67,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,4,4,3,0,1,0,0
+68,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,3,1,4,1,1,1,0
+69,TabunganKu,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,2,4,2,2,4,0,1,0,0
 70,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,1,1,1,1
-71,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,3,3,2,3,0,1,0,1
-72,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,4,4,4,1,4,0,1,0,1
-73,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,3,4,2,4,0,1,0,0
-74,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,1 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,4,4,3,1,3,0,1,0,0
-75,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,4,3,3,2,3,0,1,0,0
-76,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,4,4,1,3,0,0,0,1
-77,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,2,1,4,1,0,0,1
-78,Tabungan Regular,> 55 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,15-20 juta,20-30%,4,4,4,4,4,4,0,0,1,0
+71,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,3,3,2,3,0,1,1,0
+72,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,4,4,4,1,4,0,1,1,0
+73,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,3,4,2,4,0,0,1,0
+74,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,1 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,4,4,3,1,3,0,0,1,0
+75,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,4,3,3,2,3,0,0,1,0
+76,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,4,4,1,3,0,1,0,0
+77,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,2,1,4,1,1,0,0
+78,Tabungan Regular,> 55 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,15-20 juta,20-30%,4,4,4,4,4,4,0,0,0,1
 79,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,4,4,4,4,1,4,1,0,0,0
-80,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,1-5%,4,4,4,1,1,4,0,0,0,1
-81,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,1,1,4,0,0,0,1
-82,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,3,1,3,1,4,2,0,0,0,1
-83,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,3,4,2,1,3,0,0,0,1
-84,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,1,4,1,1,2,0,1,0,0
-85,Tabungan Premium,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,> 30%,3,3,4,3,1,3,1,0,0,1
-86,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,10-20%,4,4,4,1,1,4,0,0,0,1
-87,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,4,4,4,2,1,4,0,0,0,1
-88,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,1,1,4,0,0,0,1
-89,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,3,3,2,2,2,0,0,0,1
-90,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,3,3,2,2,1,1,0,1
-91,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,> 3 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,0,0,0,1
-92,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,3,2,4,0,0,0,1
+80,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,1-5%,4,4,4,1,1,4,0,1,0,0
+81,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,1,1,4,0,1,0,0
+82,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,3,1,3,1,4,2,0,1,0,0
+83,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,3,4,2,1,3,0,1,0,0
+84,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,1,4,1,1,2,0,0,1,0
+85,Tabungan Premium,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,> 30%,3,3,4,3,1,3,1,1,0,0
+86,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,10-20%,4,4,4,1,1,4,0,1,0,0
+87,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,4,4,4,2,1,4,0,1,0,0
+88,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,1,1,4,0,1,0,0
+89,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,3,3,2,2,2,0,1,0,0
+90,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,3,3,2,2,1,1,1,0
+91,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,> 3 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,0,1,0,0
+92,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,3,2,4,0,1,0,0
 93,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,1,1,1,1
-94,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,1-5%,4,4,4,4,4,4,0,0,0,1
+94,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,1-5%,4,4,4,4,4,4,0,1,0,0
 95,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,3,3,3,1,0,0,0
-96,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,1,3,4,3,3,0,1,0,0
-97,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,3,2,3,1,3,0,1,0,1
-98,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,4,0,1,0,0
-99,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,> 3 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,0,0,0,1
-100,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,2,3,4,0,0,0,1
-101,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,4,4,4,0,0,0,1
-102,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,1-5 juta,10-20%,4,4,4,4,4,4,0,1,0,0
-103,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,3,4,2,4,1,1,0,1
-104,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,4,4,4,4,4,4,0,0,0,1
-105,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,3,1,4,0,1,0,0
-106,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,4,4,4,2,4,1,0,0,1
-107,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,1,1,4,0,1,0,0
-108,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,2,1,4,0,1,0,0
-109,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,4,4,2,1,4,0,0,0,1
-110,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,2,3,4,3,1,3,0,1,0,1
-111,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,3,4,3,1,4,1,1,0,0
+96,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,1,3,4,3,3,0,0,1,0
+97,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,3,2,3,1,3,0,1,1,0
+98,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,4,0,0,1,0
+99,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,> 3 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,0,1,0,0
+100,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,2,3,4,0,1,0,0
+101,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,4,4,4,0,1,0,0
+102,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,1-5 juta,10-20%,4,4,4,4,4,4,0,0,1,0
+103,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,3,4,2,4,1,1,1,0
+104,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,4,4,4,4,4,4,0,1,0,0
+105,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,3,1,4,0,0,1,0
+106,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,4,4,4,2,4,1,1,0,0
+107,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,1,1,4,0,0,1,0
+108,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,2,1,4,0,0,1,0
+109,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,4,4,2,1,4,0,1,0,0
+110,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,2,3,4,3,1,3,0,1,1,0
+111,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,3,4,3,1,4,1,0,1,0
 112,Tabungan Regular,> 55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Lainnya,> 20 juta,5-10%,4,4,4,1,1,4,1,0,0,0
-113,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,4,3,4,2,1,4,0,1,1,0
-114,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,4,4,4,1,3,0,0,0,1
-115,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,3 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,1,4,4,1,4,0,1,0,0
-116,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,3,4,3,1,3,0,1,0,1
+113,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,4,3,4,2,1,4,0,0,1,1
+114,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,4,4,4,1,3,0,1,0,0
+115,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,3 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,1,4,4,1,4,0,0,1,0
+116,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,3,4,3,1,3,0,1,1,0
 117,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,15-20 juta,5-10%,4,3,3,3,1,4,1,0,0,0
-118,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,> 3 jiwa,Pelajar,1-5 juta,0%,3,3,3,3,1,3,0,0,0,1
-119,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,3,3,2,2,3,1,1,0,1
-120,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,3,3,3,0,1,0,0
-121,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,3,4,3,4,1,1,0,0
-122,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,2,3,3,4,1,3,1,1,0,1
-123,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,2,3,4,1,4,0,1,0,1
-124,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,3,1,4,1,1,0,1
-125,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,3,1,4,1,1,0,1
-126,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,3,3,3,3,0,0,0,1
-127,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,3,4,4,1,4,0,1,0,1
-128,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,4,1,1,4,0,0,0,1
-129,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pelajar,< 1 juta,10-20%,4,3,4,4,1,4,1,0,0,1
-130,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,2,3,3,3,3,1,1,0,1
-131,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,4,1,4,1,1,0,1
-132,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,2,4,3,2,1,3,1,1,0,1
-133,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,2,1,3,0,0,0,1
-134,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,2,2,3,0,0,0,1
-135,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,4,2,2,1,2,3,0,0,0,1
-136,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,3,4,2,1,4,0,0,0,1
-137,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,3,3,1,3,0,0,1,0
-138,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,2,1,3,1,3,0,0,0,1
-139,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,3,1,4,0,0,0,1
-140,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,1,3,3,3,3,0,0,0,1
+118,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,> 3 jiwa,Pelajar,1-5 juta,0%,3,3,3,3,1,3,0,1,0,0
+119,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,3,3,2,2,3,1,1,1,0
+120,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,3,3,3,0,0,1,0
+121,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,3,4,3,4,1,0,1,0
+122,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,2,3,3,4,1,3,1,1,1,0
+123,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,2,3,4,1,4,0,1,1,0
+124,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,3,1,4,1,1,1,0
+125,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,3,1,4,1,1,1,0
+126,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,3,3,3,3,0,1,0,0
+127,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,3,4,4,1,4,0,1,1,0
+128,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,4,1,1,4,0,1,0,0
+129,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pelajar,< 1 juta,10-20%,4,3,4,4,1,4,1,1,0,0
+130,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,2,3,3,3,3,1,1,1,0
+131,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,4,1,4,1,1,1,0
+132,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,2,4,3,2,1,3,1,1,1,0
+133,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,2,1,3,0,1,0,0
+134,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,> 20 juta,5-10%,4,4,4,2,2,3,0,1,0,0
+135,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,4,2,2,1,2,3,0,1,0,0
+136,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,3,4,2,1,4,0,1,0,0
+137,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,3,3,1,3,0,0,0,1
+138,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,2,1,3,1,3,0,1,0,0
+139,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,3,1,4,0,1,0,0
+140,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,1,3,3,3,3,0,1,0,0
 141,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,3,3,1,1,3,1,0,0,0
-142,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,2,3,3,2,3,0,1,0,1
-143,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,15-20 juta,1-5%,4,4,4,3,1,4,0,0,0,1
-144,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,4,2,1,4,0,1,0,1
-145,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,2,3,1,4,0,0,0,1
-146,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,3,3,2,4,0,1,0,1
-147,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,2,3,3,1,4,3,1,0,0,1
-148,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,4,3,1,3,0,0,0,1
-149,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,1-5%,4,3,4,4,1,4,0,1,0,1
-150,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,4,4,3,2,4,0,0,1,0
-151,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,3,3,2,3,0,0,0,1
-152,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,4,3,2,1,3,0,0,0,1
-153,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pengusaha,1-5 juta,5-10%,3,3,3,3,3,3,1,1,0,1
-154,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,4,4,1,4,0,1,0,1
-155,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,3,4,2,1,4,0,0,0,1
-156,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,3,3,3,2,3,0,1,0,1
-157,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,4,1,3,3,0,1,0,0
-158,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,4,4,4,4,1,4,0,0,0,1
-159,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,3,4,4,3,3,2,0,0,0,1
-160,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,4,3,4,1,4,0,1,0,1
-161,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,4,4,4,4,4,0,0,0,1
-162,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,5-10%,4,3,3,3,2,3,0,1,0,0
-163,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,< 1 juta,1-5%,3,4,4,3,2,4,0,0,0,1
-164,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,3,2,3,2,3,3,1,1,0,1
-165,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,3,1,3,0,0,1,1
-166,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,3,3,2,1,3,0,1,0,0
-167,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,10-15 juta,20-30%,2,2,3,3,2,3,1,1,0,0
-168,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,2,4,2,3,3,0,1,0,1
-169,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,2,4,4,1,3,0,1,0,1
-170,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,2,4,4,3,1,3,0,1,0,1
-171,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,3,2,3,1,2,3,0,0,0,1
-172,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,3,4,2,1,4,1,1,0,1
-173,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,3,2,1,3,0,0,0,1
-174,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,1,1,4,1,0,0,1
-175,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,3,4,1,1,3,0,0,0,1
-176,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,10-20%,3,3,2,3,2,3,1,1,0,1
-177,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,2,1,4,0,1,0,0
-178,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,4,2,2,3,0,0,0,1
-179,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,4,1,1,3,1,1,0,0
-180,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,2,3,2,1,4,1,1,0,1
-181,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,3,1,4,1,1,0,1
-182,Tabungan Medium,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,3,2,3,1,2,3,0,1,0,1
-183,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,1-5%,4,4,4,3,1,3,1,0,0,1
-184,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,10-20%,4,2,2,1,2,3,0,0,0,1
-185,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,> 3 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,3,2,1,1,3,0,0,1,1
-186,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,2,3,2,3,3,0,0,0,1
-187,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,1,4,0,1,0,1
-188,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,> 30%,4,4,4,3,1,4,0,0,0,1
-189,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,2,4,2,1,4,0,0,0,1
-190,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,2,1,2,1,2,0,1,0,1
-191,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,3,1,4,0,0,0,1
-192,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,4,3,2,3,0,1,0,1
-193,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,3,4,2,1,4,1,1,0,1
-194,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,4,4,1,1,0,1
-195,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,> 3 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,4,4,4,1,4,0,1,0,1
-196,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,5-10%,3,3,3,3,3,3,1,0,0,1
-197,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,3,2,4,0,1,0,0
-198,Tabungan Premium,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,2,1,4,0,0,0,1
-199,Tabungan Anak Muda,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,2,4,4,1,4,0,1,1,0
-200,Tabungan Online,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,1,1,0,0
-201,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,3,1,3,0,1,0,1
-202,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,5-10%,3,2,3,2,2,2,0,0,0,1
-203,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,3,1,4,0,1,0,1
-204,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,3,3,4,3,0,0,0,1
-205,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,1 jiwa,Karyawan Swasta,15-20 juta,20-30%,3,2,3,2,3,3,0,0,0,1
-206,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,4,3,4,4,1,4,1,1,0,1
-207,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,3,2,3,1,1,0,1
-208,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,> 3 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,2,1,4,0,0,0,1
-209,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,4,4,0,1,0,0
-210,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,3,2,4,1,1,0,1
-211,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,3,4,2,4,1,0,0,1
-212,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,2,1,3,1,1,0,1
-213,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,3,2,2,3,0,0,0,1
-214,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,3,4,4,1,4,0,0,0,1
-215,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,2,4,4,2,3,1,1,0,0
-216,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,2,1,3,0,0,0,1
-217,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,2,1,2,1,3,0,0,0,1
-218,Tabungan Valas,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,3,1,4,1,1,0,0
-219,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,2,3,2,1,3,1,1,0,1
-220,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,4,3,1,4,0,1,0,1
-221,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,4,4,0,0,0,1
-222,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,3,1,4,0,1,0,1
-223,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,3,2,4,0,0,0,1
-224,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,3,4,2,4,1,1,0,1
-225,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,4,3,3,1,3,1,1,0,1
-226,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,2,3,3,1,3,0,1,0,1
-227,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,3,3,3,2,3,0,0,0,1
-228,Tabungan Medium,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,4,3,2,3,3,0,0,0,1
-229,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,3,4,1,2,3,1,1,0,1
-230,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,3,1,4,0,0,0,1
-231,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,4,3,2,3,0,1,0,1
-232,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,2,3,3,3,3,0,0,0,1
-233,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,> 30%,4,4,4,4,2,3,0,0,0,1
-234,Tabungan Premium,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,15-20 juta,20-30%,4,3,4,4,1,4,0,0,0,1
+142,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,2,3,3,2,3,0,1,1,0
+143,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,15-20 juta,1-5%,4,4,4,3,1,4,0,1,0,0
+144,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,4,2,1,4,0,1,1,0
+145,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,2,3,1,4,0,1,0,0
+146,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,3,3,2,4,0,1,1,0
+147,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,2,3,3,1,4,3,1,1,0,0
+148,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,4,3,1,3,0,1,0,0
+149,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,1-5%,4,3,4,4,1,4,0,1,1,0
+150,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,4,4,3,2,4,0,0,0,1
+151,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,3,3,2,3,0,1,0,0
+152,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,4,3,2,1,3,0,1,0,0
+153,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pengusaha,1-5 juta,5-10%,3,3,3,3,3,3,1,1,1,0
+154,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,4,4,1,4,0,1,1,0
+155,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,3,4,2,1,4,0,1,0,0
+156,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,3,3,3,2,3,0,1,1,0
+157,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,3,4,1,3,3,0,0,1,0
+158,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Karyawan Swasta,> 20 juta,> 30%,4,4,4,4,1,4,0,1,0,0
+159,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,3,4,4,3,3,2,0,1,0,0
+160,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,4,3,4,1,4,0,1,1,0
+161,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,4,4,4,4,4,0,1,0,0
+162,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,5-10%,4,3,3,3,2,3,0,0,1,0
+163,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,< 1 juta,1-5%,3,4,4,3,2,4,0,1,0,0
+164,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,3,2,3,2,3,3,1,1,1,0
+165,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,3,1,3,0,1,0,1
+166,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,3,3,2,1,3,0,0,1,0
+167,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,10-15 juta,20-30%,2,2,3,3,2,3,1,0,1,0
+168,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,2,4,2,3,3,0,1,1,0
+169,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,2,4,4,1,3,0,1,1,0
+170,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,2,4,4,3,1,3,0,1,1,0
+171,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,3,2,3,1,2,3,0,1,0,0
+172,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,3,4,2,1,4,1,1,1,0
+173,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,3,2,1,3,0,1,0,0
+174,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,1,1,4,1,1,0,0
+175,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,3,4,1,1,3,0,1,0,0
+176,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,10-20%,3,3,2,3,2,3,1,1,1,0
+177,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,2,1,4,0,0,1,0
+178,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,4,2,2,3,0,1,0,0
+179,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,2,4,1,1,3,1,0,1,0
+180,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,2,3,2,1,4,1,1,1,0
+181,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,3,1,4,1,1,1,0
+182,Tabungan Medium,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,3,2,3,1,2,3,0,1,1,0
+183,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,1-5%,4,4,4,3,1,3,1,1,0,0
+184,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,10-20%,4,2,2,1,2,3,0,1,0,0
+185,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,> 3 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,3,2,1,1,3,0,1,0,1
+186,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,2,3,2,3,3,0,1,0,0
+187,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,1,4,0,1,1,0
+188,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,> 30%,4,4,4,3,1,4,0,1,0,0
+189,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,2,4,2,1,4,0,1,0,0
+190,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,2,1,2,1,2,0,1,1,0
+191,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,3,1,4,0,1,0,0
+192,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,4,3,2,3,0,1,1,0
+193,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,3,4,2,1,4,1,1,1,0
+194,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,4,4,1,1,1,0
+195,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,> 3 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,4,4,4,1,4,0,1,1,0
+196,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,5-10%,3,3,3,3,3,3,1,1,0,0
+197,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,3,2,4,0,0,1,0
+198,Tabungan Premium,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,2,1,4,0,1,0,0
+199,Tabungan Anak Muda,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,2,4,4,1,4,0,0,1,1
+200,Tabungan Online,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,> 20 juta,20-30%,4,4,4,4,1,4,1,0,1,0
+201,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,3,1,3,0,1,1,0
+202,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,5-10%,3,2,3,2,2,2,0,1,0,0
+203,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,3,1,4,0,1,1,0
+204,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,3,3,4,3,0,1,0,0
+205,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,1 jiwa,Karyawan Swasta,15-20 juta,20-30%,3,2,3,2,3,3,0,1,0,0
+206,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,4,3,4,4,1,4,1,1,1,0
+207,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,3,2,3,1,1,1,0
+208,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,> 3 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,2,1,4,0,1,0,0
+209,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,4,4,0,0,1,0
+210,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,3,2,4,1,1,1,0
+211,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,3,4,2,4,1,1,0,0
+212,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,2,1,3,1,1,1,0
+213,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,20-30%,3,3,3,2,2,3,0,1,0,0
+214,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,3,4,4,1,4,0,1,0,0
+215,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,2,4,4,2,3,1,0,1,0
+216,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,2,1,3,0,1,0,0
+217,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,2,1,2,1,3,0,1,0,0
+218,Tabungan Valas,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,3,1,4,1,0,1,0
+219,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,2,3,2,1,3,1,1,1,0
+220,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,4,3,1,4,0,1,1,0
+221,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,4,4,0,1,0,0
+222,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,3,1,4,0,1,1,0
+223,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,3,2,4,0,1,0,0
+224,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,3,4,2,4,1,1,1,0
+225,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,4,3,3,1,3,1,1,1,0
+226,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,2,3,3,1,3,0,1,1,0
+227,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,3,3,3,2,3,0,1,0,0
+228,Tabungan Medium,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,4,3,2,3,3,0,1,0,0
+229,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,3 jiwa,Karyawan Swasta,> 20 juta,20-30%,3,3,4,1,2,3,1,1,1,0
+230,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,3,1,4,0,1,0,0
+231,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,4,3,2,3,0,1,1,0
+232,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,2,3,3,3,3,0,1,0,0
+233,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,> 30%,4,4,4,4,2,3,0,1,0,0
+234,Tabungan Premium,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,15-20 juta,20-30%,4,3,4,4,1,4,0,1,0,0
 235,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,0 jiwa,Karyawan Swasta,15-20 juta,10-20%,4,4,3,3,1,4,1,0,0,0
-236,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,3,3,1,1,0,0
-237,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,3,3,0,1,0,0
-238,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,2,4,3,2,3,1,1,0,1
-239,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,3,4,4,0,1,0,1
-240,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,2,4,3,1,4,0,1,0,1
-241,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,3,1,4,0,1,0,0
-242,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,4,3,3,2,4,0,0,0,1
-243,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,3,3,2,3,0,0,0,1
-244,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,4,2,2,4,0,0,0,1
-245,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,3,1,3,0,0,0,1
-246,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,4,1,4,0,0,0,1
-247,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,1,1,4,0,0,0,1
-248,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,4,4,4,3,1,4,0,0,1,1
+236,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,3,3,1,0,1,0
+237,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,3,3,0,0,1,0
+238,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,2,4,3,2,3,1,1,1,0
+239,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,3,4,4,0,1,1,0
+240,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,3,2,4,3,1,4,0,1,1,0
+241,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,3,1,4,0,0,1,0
+242,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,1-5 juta,5-10%,4,4,3,3,2,4,0,1,0,0
+243,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,3,3,2,3,0,1,0,0
+244,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,4,2,2,4,0,1,0,0
+245,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,3,1,3,0,1,0,0
+246,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,4,1,4,0,1,0,0
+247,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,1,1,4,0,1,0,0
+248,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,4,4,4,3,1,4,0,1,0,1
 249,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,3,3,4,4,1,0,0,0
-250,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,> 30%,3,2,3,3,1,3,1,1,0,1
-251,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,2,2,2,2,3,3,1,1,0,0
+250,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,> 30%,3,2,3,3,1,3,1,1,1,0
+251,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,2,2,2,2,3,3,1,0,1,0
 252,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,1 jiwa,Karyawan Swasta,10-15 juta,1-5%,3,3,3,2,4,3,1,0,0,0
-253,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,> 30%,2,2,3,2,2,3,1,1,0,1
-254,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,10-20%,3,3,3,2,2,3,0,1,0,0
-255,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,2,3,3,3,1,2,1,0,0,1
-256,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,4,3,1,4,0,0,0,1
-257,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,4,4,4,0,0,0,1
-258,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,4,1,4,0,0,1,1
-259,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,> 30%,4,3,4,2,1,3,0,1,0,1
-260,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,4,4,4,1,0,0,1
+253,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,> 30%,2,2,3,2,2,3,1,1,1,0
+254,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,15-20 juta,10-20%,3,3,3,2,2,3,0,0,1,0
+255,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,2,3,3,3,1,2,1,1,0,0
+256,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,4,3,1,4,0,1,0,0
+257,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,4,4,4,0,1,0,0
+258,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,5-10%,4,4,4,4,1,4,0,1,0,1
+259,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,> 30%,4,3,4,2,1,3,0,1,1,0
+260,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,4,4,4,1,1,0,0
 261,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,4,3,2,1,3,0,1,1,1
-262,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,2,4,1,3,4,0,1,0,1
-263,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,0,0,0,1
-264,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,4,3,3,3,1,3,0,0,0,1
-265,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,1-5%,3,3,3,3,2,4,0,0,0,1
-266,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,4,2,2,3,0,0,0,1
-267,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,2,3,3,2,3,0,0,0,1
-268,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,3,3,1,3,0,1,0,1
-269,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,2,4,2,2,3,0,0,0,1
+262,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,2,4,1,3,4,0,1,1,0
+263,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,0,1,0,0
+264,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,4,3,3,3,1,3,0,1,0,0
+265,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,1-5%,3,3,3,3,2,4,0,1,0,0
+266,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,4,2,2,3,0,1,0,0
+267,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,2,3,3,2,3,0,1,0,0
+268,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,3,3,1,3,0,1,1,0
+269,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,2 jiwa,Karyawan Swasta,> 20 juta,10-20%,3,2,4,2,2,3,0,1,0,0
 270,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,3,4,1,1,4,1,0,0,0
 271,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,5-10%,4,4,4,4,4,4,1,1,1,1
-272,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,2,1,3,0,0,0,1
-273,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,4,3,2,3,0,0,0,1
-274,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,1,4,2,3,1,0,0,1
-275,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,3,3,3,2,3,0,1,0,0
-276,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,3,3,4,0,1,0,1
-277,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,4,1,1,0,1
-278,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,2,2,3,0,1,0,0
-279,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,3,3,3,3,3,3,0,1,0,0
-280,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,4,4,4,1,1,0,1
-281,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,4,2,1,3,0,0,0,1
-282,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,2,1,3,0,0,0,1
-283,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,4,4,4,4,4,0,0,0,1
-284,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,4,4,1,4,0,0,0,1
-285,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,4,4,1,4,0,0,0,1
-286,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,3,1,4,0,1,0,1
-287,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,15-20 juta,> 30%,3,4,3,2,1,3,1,1,0,1
-288,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,3,1,3,0,1,0,1
-289,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,4,3,1,3,0,0,0,1
-290,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,4,4,4,1,4,0,1,0,0
-291,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,1,3,2,1,3,0,0,0,1
-292,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pelajar,1-5 juta,> 30%,3,3,3,2,3,2,0,1,0,1
-293,Tabungan Pelajar,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,3,3,3,1,0,0,1
-294,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,3,4,3,2,4,0,1,0,0
-295,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,4,1,4,1,1,0,1
-296,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,2,3,0,1,0,1
-297,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,4,1,4,0,1,0,1
-298,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,2,1,3,1,1,0,1
-299,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,4,3,1,4,0,1,0,1
-300,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,3,1,4,0,1,0,1
-301,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,4,1,4,0,0,0,1
-302,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,1,1,4,0,0,0,1
-303,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,3,2,1,3,0,0,0,1
-304,Tabungan Berjangka,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,3,1,4,0,1,0,0
-305,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,1-5%,4,3,3,3,1,3,0,0,0,1
-306,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,2,2,3,0,0,0,1
-307,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Lainnya,1-5 juta,1-5%,4,4,4,4,1,4,0,0,0,1
-308,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,3,3,2,3,0,0,0,1
-309,Tabungan Valas,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,3,3,3,3,2,3,1,0,1,0
-310,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,3,3,3,3,3,0,0,0,1
-311,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,5-10 juta,20-30%,3,4,4,3,2,4,0,1,0,0
-312,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,4,1,1,0,0
-313,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,4,3,4,3,1,4,0,0,0,1
-314,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,3,3,2,4,0,0,0,1
-315,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,2,2,2,2,1,1,0,0
-316,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,4,4,0,1,0,1
-317,Tabungan Pelajar,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Lainnya,1-5 juta,20-30%,4,4,4,3,1,3,0,1,0,1
-318,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,2,4,3,2,3,0,0,0,1
-319,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Lainnya,< 1 juta,10-20%,4,4,4,4,2,4,0,1,0,1
-320,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,2,1,3,1,2,3,0,1,0,1
-321,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,4,4,1,4,0,1,0,1
-322,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,1,2,3,0,0,0,1
-323,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,3,3,3,1,0,0,1
-324,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,3,4,1,4,0,1,0,1
-325,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,3,3,3,1,3,0,1,0,0
-326,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,> 30%,3,1,4,3,2,3,1,1,0,1
-327,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,3,1,4,0,0,0,1
-328,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,3,3,2,4,0,0,0,1
-329,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,4,3,2,3,0,1,0,1
-330,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,4,3,3,3,2,3,0,1,0,1
-331,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,2,4,0,0,0,1
-332,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,5-10 juta,> 30%,4,3,4,2,1,3,0,1,0,0
-333,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,1,1,0,1
-334,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,4,4,4,1,4,0,0,0,1
-335,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,1,1,3,0,0,0,1
-336,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,0%,4,3,4,3,3,3,1,0,0,1
-337,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,0,0,0,1
-338,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,3,2,1,3,0,1,0,1
-339,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,3,3,1,3,0,0,0,1
-340,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,3,2,1,3,0,0,0,1
-341,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,2,3,2,1,4,0,0,0,1
-342,Tabungan Premium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,4,4,0,0,0,1
+272,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,2,1,3,0,1,0,0
+273,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,4,3,2,3,0,1,0,0
+274,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,1,4,2,3,1,1,0,0
+275,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,3,3,3,3,2,3,0,0,1,0
+276,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,3,3,4,0,1,1,0
+277,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,4,1,1,1,0
+278,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,2,2,3,0,0,1,0
+279,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,3,3,3,3,3,3,0,0,1,0
+280,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,4,4,4,1,1,1,0
+281,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,4,2,1,3,0,1,0,0
+282,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,2,1,3,0,1,0,0
+283,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,2 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,4,4,4,4,4,0,1,0,0
+284,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,4,4,1,4,0,1,0,0
+285,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,4,4,1,4,0,1,0,0
+286,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,3,4,3,1,4,0,1,1,0
+287,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,15-20 juta,> 30%,3,4,3,2,1,3,1,1,1,0
+288,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,4,4,4,3,1,3,0,1,1,0
+289,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,4,3,1,3,0,1,0,0
+290,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,4,4,4,4,1,4,0,0,1,0
+291,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,1,3,2,1,3,0,1,0,0
+292,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pelajar,1-5 juta,> 30%,3,3,3,2,3,2,0,1,1,0
+293,Tabungan Pelajar,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,3,3,3,3,3,3,1,1,0,0
+294,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,3,4,3,2,4,0,0,1,0
+295,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,4,1,4,1,1,1,0
+296,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,2,3,0,1,1,0
+297,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,20-30%,4,4,4,4,1,4,0,1,1,0
+298,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,2,1,3,1,1,1,0
+299,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,4,3,1,4,0,1,1,0
+300,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,3,1,4,0,1,1,0
+301,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,4,1,4,0,1,0,0
+302,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,1,1,4,0,1,0,0
+303,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,3,2,1,3,0,1,0,0
+304,Tabungan Berjangka,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,4,4,3,1,4,0,0,1,0
+305,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,1-5%,4,3,3,3,1,3,0,1,0,0
+306,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,2,2,3,0,1,0,0
+307,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,2 jiwa,Lainnya,1-5 juta,1-5%,4,4,4,4,1,4,0,1,0,0
+308,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,3,3,2,3,0,1,0,0
+309,Tabungan Valas,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,3,3,3,3,2,3,1,0,0,1
+310,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,3,3,3,3,3,0,1,0,0
+311,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,5-10 juta,20-30%,3,4,4,3,2,4,0,0,1,0
+312,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,4,1,0,1,0
+313,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,4,3,4,3,1,4,0,1,0,0
+314,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,3,3,2,4,0,1,0,0
+315,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,2,2,2,2,1,0,1,0
+316,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,4,4,4,0,1,1,0
+317,Tabungan Pelajar,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Lainnya,1-5 juta,20-30%,4,4,4,3,1,3,0,1,1,0
+318,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,2,4,3,2,3,0,1,0,0
+319,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Lainnya,< 1 juta,10-20%,4,4,4,4,2,4,0,1,1,0
+320,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,2,1,3,1,2,3,0,1,1,0
+321,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,4,4,1,4,0,1,1,0
+322,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,1,2,3,0,1,0,0
+323,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,3,3,3,1,1,0,0
+324,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,3,4,1,4,0,1,1,0
+325,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,3,3,3,1,3,0,0,1,0
+326,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,> 30%,3,1,4,3,2,3,1,1,1,0
+327,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,3,1,4,0,1,0,0
+328,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,3,3,2,4,0,1,0,0
+329,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,4,3,2,3,0,1,1,0
+330,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,1-5%,4,3,3,3,2,3,0,1,1,0
+331,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,2,4,0,1,0,0
+332,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,5-10 juta,> 30%,4,3,4,2,1,3,0,0,1,0
+333,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,1,1,1,0
+334,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,4,4,4,1,4,0,1,0,0
+335,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,1,1,3,0,1,0,0
+336,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,0%,4,3,4,3,3,3,1,1,0,0
+337,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,1,4,0,1,0,0
+338,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,3,2,1,3,0,1,1,0
+339,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,3,3,3,1,3,0,1,0,0
+340,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,3,2,1,3,0,1,0,0
+341,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,2,3,2,1,4,0,1,0,0
+342,Tabungan Premium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,4,4,0,1,0,0
 343,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,4,4,1,0,0,0
-344,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,4,4,4,1,4,0,0,0,1
-345,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,< 1 juta,5-10%,3,3,3,3,3,3,1,1,0,0
-346,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,3,3,4,3,1,4,1,1,0,0
-347,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,4,4,3,1,4,0,1,0,0
-348,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Mahasiswa,1-5 juta,5-10%,3,2,4,2,2,3,0,0,0,1
-349,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,0%,4,3,3,3,2,3,0,0,0,1
-350,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,4,1,4,2,1,3,0,0,0,1
-351,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,3,4,4,4,1,3,0,0,0,1
-352,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,1,1,1,1,1,1,0,1,0,1
-353,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,1,4,1,4,1,1,0,0
-354,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,2,1,3,0,0,0,1
-355,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,3,2,2,3,0,1,0,1
-356,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,4,4,4,4,4,1,0,0,1
-357,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,4,3,2,4,0,0,0,1
-358,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,4,4,1,1,4,1,1,0,1
-359,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,4,3,3,3,2,4,0,1,0,1
-360,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,2,3,2,3,3,3,0,1,0,1
-361,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,1-5%,4,4,4,4,1,4,0,1,0,1
-362,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,4,2,3,4,0,0,0,1
-363,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,2,3,3,2,3,0,1,0,1
-364,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,2,2,3,0,1,0,1
-365,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,1,3,2,1,3,0,1,0,0
-366,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,2,4,2,2,3,0,0,0,1
-367,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,3,3,2,2,4,1,1,0,1
-368,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,2,4,3,2,4,0,0,0,1
-369,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,4,4,3,1,4,0,0,0,1
-370,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,3,4,4,2,3,0,0,0,1
-371,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,3,1,4,1,1,0,1
-372,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,2,2,3,3,3,0,1,0,0
+344,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,4,4,4,1,4,0,1,0,0
+345,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,< 1 juta,5-10%,3,3,3,3,3,3,1,0,1,0
+346,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,3,3,4,3,1,4,1,0,1,0
+347,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,4,4,3,1,4,0,0,1,0
+348,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Mahasiswa,1-5 juta,5-10%,3,2,4,2,2,3,0,1,0,0
+349,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,0%,4,3,3,3,2,3,0,1,0,0
+350,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,4,1,4,2,1,3,0,1,0,0
+351,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,3,4,4,4,1,3,0,1,0,0
+352,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,1,1,1,1,1,1,0,1,1,0
+353,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,4,1,4,1,4,1,0,1,0
+354,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,2,1,3,0,1,0,0
+355,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,3,2,2,3,0,1,1,0
+356,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,4,4,4,4,4,1,1,0,0
+357,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,4,3,4,3,2,4,0,1,0,0
+358,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,4,4,1,1,4,1,1,1,0
+359,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,4,3,3,3,2,4,0,1,1,0
+360,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,2,3,2,3,3,3,0,1,1,0
+361,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,1-5%,4,4,4,4,1,4,0,1,1,0
+362,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,3,4,2,3,4,0,1,0,0
+363,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,3,2,3,3,2,3,0,1,1,0
+364,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,3,2,2,3,0,1,1,0
+365,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,1,3,2,1,3,0,0,1,0
+366,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,2,4,2,2,3,0,1,0,0
+367,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,3,3,2,2,4,1,1,1,0
+368,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,2,4,3,2,4,0,1,0,0
+369,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,4,4,3,1,4,0,1,0,0
+370,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,3,4,4,2,3,0,1,0,0
+371,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,3,1,4,1,1,1,0
+372,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,2,2,3,3,3,0,0,1,0
 373,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,5-10 juta,1-5%,4,4,4,4,4,4,1,0,0,0
-374,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,1,3,2,1,3,1,1,0,1
-375,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,4,3,3,1,3,1,0,0,1
-376,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Mahasiswa,5-10 juta,5-10%,3,2,3,2,2,2,0,1,0,1
-377,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Mahasiswa,1-5 juta,5-10%,3,4,4,3,3,3,1,1,0,1
-378,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,3,3,3,1,3,0,0,0,1
-379,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,3,2,1,4,0,1,0,1
-380,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,3,3,3,3,0,0,0,1
-381,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Pengusaha,15-20 juta,20-30%,1,3,3,3,2,4,0,1,0,1
-382,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,4,4,4,4,4,4,1,1,0,1
-383,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,3,2,3,0,1,0,1
-384,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,4,4,1,4,0,0,0,1
-385,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,1,1,4,1,1,0,1
-386,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,3,4,4,4,1,4,1,1,0,1
-387,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,2,1,4,0,0,0,1
-388,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,2,2,3,1,0,0,1
-389,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,5-10%,3,3,3,3,1,3,0,1,0,1
-390,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,4,4,4,4,4,4,0,1,0,1
-391,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,4,3,3,3,1,4,0,0,0,1
-392,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,3,4,2,3,3,0,1,0,1
-393,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,4,4,1,1,3,0,0,0,1
-394,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,3,1,4,0,0,0,1
-395,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,1,4,0,0,0,1
-396,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,1,3,0,1,0,1
-397,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,4,4,1,1,0,0
-398,Tabungan Berjangka,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,15-20 juta,10-20%,4,4,4,3,4,3,0,1,0,1
-399,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,> 30%,4,4,3,3,1,3,0,0,0,1
-400,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,4,4,4,2,4,0,1,0,0
-401,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,1,2,2,2,4,2,1,1,0,1
-402,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pengusaha,< 1 juta,5-10%,3,3,3,3,3,3,0,1,0,0
-403,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,5-10%,4,4,4,4,2,4,0,0,0,1
-404,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,1,2,3,0,0,0,1
-405,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,2,1,4,0,0,0,1
-406,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Karyawan Swasta,1-5 juta,10-20%,3,2,1,2,1,4,0,0,0,1
-407,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,3,3,2,4,0,0,0,1
-408,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,3,3,2,3,0,0,0,1
-409,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,4,1,4,0,1,0,1
-410,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,3,3,1,4,0,0,0,1
-411,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,4,4,3,1,4,0,1,0,1
-412,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Lainnya,10-15 juta,10-20%,3,3,3,3,3,3,0,0,0,1
-413,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,4,4,0,1,0,1
-414,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,2,2,3,3,1,1,0,0
-415,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,0%,3,3,4,1,1,3,1,1,0,1
-416,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,3,0,0,1,1
-417,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,4,3,4,4,3,1,1,0,1
-418,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,3,3,3,3,0,0,0,1
-419,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,2,2,3,3,2,3,0,0,0,1
-420,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,4,4,0,1,0,1
-421,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,2,3,4,2,1,3,0,0,1,1
-422,Tabungan Valas,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,2,3,2,2,3,1,1,0,0
-423,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,3,1,4,1,1,0,1
-424,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,3,1,3,1,0,0,1
+374,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,3,1,3,2,1,3,1,1,1,0
+375,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,1 jiwa,Karyawan Swasta,10-15 juta,10-20%,3,4,3,3,1,3,1,1,0,0
+376,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Mahasiswa,5-10 juta,5-10%,3,2,3,2,2,2,0,1,1,0
+377,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,2 jiwa,Mahasiswa,1-5 juta,5-10%,3,4,4,3,3,3,1,1,1,0
+378,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,10-20%,4,3,3,3,1,3,0,1,0,0
+379,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,3,2,1,4,0,1,1,0
+380,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,3,3,3,3,0,1,0,0
+381,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Pengusaha,15-20 juta,20-30%,1,3,3,3,2,4,0,1,1,0
+382,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,> 30%,4,4,4,4,4,4,1,1,1,0
+383,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,3,2,3,0,1,1,0
+384,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,4,4,1,4,0,1,0,0
+385,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,3,4,1,1,4,1,1,1,0
+386,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,1-5%,3,4,4,4,1,4,1,1,1,0
+387,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,2,1,4,0,1,0,0
+388,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,2,2,3,1,1,0,0
+389,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,5-10%,3,3,3,3,1,3,0,1,1,0
+390,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,20-30%,4,4,4,4,4,4,0,1,1,0
+391,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,0%,4,3,3,3,1,4,0,1,0,0
+392,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,3,4,2,3,3,0,1,1,0
+393,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,20-30%,4,4,4,1,1,3,0,1,0,0
+394,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,4,4,4,3,1,4,0,1,0,0
+395,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,1,4,0,1,0,0
+396,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,1,3,0,1,1,0
+397,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,4,4,4,1,0,1,0
+398,Tabungan Berjangka,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,1 jiwa,Karyawan Swasta,15-20 juta,10-20%,4,4,4,3,4,3,0,1,1,0
+399,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,> 30%,4,4,3,3,1,3,0,1,0,0
+400,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,4,4,4,2,4,0,0,1,0
+401,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,1,2,2,2,4,2,1,1,1,0
+402,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pengusaha,< 1 juta,5-10%,3,3,3,3,3,3,0,0,1,0
+403,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,5-10%,4,4,4,4,2,4,0,1,0,0
+404,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,4,1,2,3,0,1,0,0
+405,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,2,1,4,0,1,0,0
+406,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,2 jiwa,Karyawan Swasta,1-5 juta,10-20%,3,2,1,2,1,4,0,1,0,0
+407,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,4,3,3,2,4,0,1,0,0
+408,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,1-5%,3,3,3,3,2,3,0,1,0,0
+409,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,4,4,4,4,1,4,0,1,1,0
+410,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,4,3,3,3,1,4,0,1,0,0
+411,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,1-5%,4,4,4,3,1,4,0,1,1,0
+412,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Lainnya,10-15 juta,10-20%,3,3,3,3,3,3,0,1,0,0
+413,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,4,4,4,0,1,1,0
+414,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,5-10%,3,3,2,2,3,3,1,0,1,0
+415,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,0%,3,3,4,1,1,3,1,1,1,0
+416,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,1,3,0,1,0,1
+417,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,4,3,4,4,3,1,1,1,0
+418,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,5-10%,3,3,3,3,3,3,0,1,0,0
+419,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,2,2,3,3,2,3,0,1,0,0
+420,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,4,4,4,4,4,4,0,1,1,0
+421,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,2,3,4,2,1,3,0,1,0,1
+422,Tabungan Valas,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,2,3,2,2,3,1,0,1,0
+423,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,20-30%,4,4,4,3,1,4,1,1,1,0
+424,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,3,1,3,1,1,0,0
 425,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,10-20%,3,3,3,3,3,2,1,0,0,0
-426,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Karyawan Swasta,10-15 juta,5-10%,2,3,3,1,1,2,0,0,0,1
-427,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,3,3,3,3,3,1,1,0,0
-428,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,2,4,1,3,0,1,0,1
-429,Tabungan Regular,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pelajar,< 1 juta,0%,2,2,2,2,3,2,0,0,1,0
-430,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,1,1,3,0,0,0,1
-431,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,1,1,4,0,1,0,1
-432,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,1-5 juta,5-10%,2,2,3,1,2,2,1,1,0,0
-433,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,3,3,3,1,4,0,1,0,1
+426,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,3 jiwa,Karyawan Swasta,10-15 juta,5-10%,2,3,3,1,1,2,0,1,0,0
+427,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,1-5 juta,5-10%,3,3,3,3,3,3,1,0,1,0
+428,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,4,4,2,4,1,3,0,1,1,0
+429,Tabungan Regular,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Pelajar,< 1 juta,0%,2,2,2,2,3,2,0,0,0,1
+430,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,1,1,3,0,1,0,0
+431,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,10-15 juta,> 30%,4,4,4,1,1,4,0,1,1,0
+432,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,1 jiwa,Karyawan Swasta,1-5 juta,5-10%,2,2,3,1,2,2,1,0,1,0
+433,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,3,3,3,1,4,0,1,1,0
 434,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,1-5 juta,> 30%,3,3,3,3,2,3,1,0,0,0
-435,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,4,3,3,3,2,3,0,0,0,1
-436,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,4,4,4,2,4,0,1,0,0
-437,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,> 30%,3,3,3,1,3,3,0,1,0,0
-438,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,2,3,3,2,1,1,0,1
-439,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,4,2,3,1,1,0,1
-440,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,1-5%,3,3,3,3,1,4,0,0,0,1
-441,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,3,3,0,0,0,1
-442,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,3,2,1,3,0,0,0,1
-443,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,3,3,3,0,0,0,1
+435,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,5-10%,4,3,3,3,2,3,0,1,0,0
+436,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Mahasiswa,< 1 juta,10-20%,4,4,4,4,2,4,0,0,1,0
+437,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,10-15 juta,> 30%,3,3,3,1,3,3,0,0,1,0
+438,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Mahasiswa,5-10 juta,> 30%,3,3,2,3,3,2,1,1,1,0
+439,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,10-20%,3,3,4,4,2,3,1,1,1,0
+440,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,0 jiwa,Lainnya,1-5 juta,1-5%,3,3,3,3,1,4,0,1,0,0
+441,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,4,4,4,4,3,3,0,1,0,0
+442,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,20-30%,3,3,3,2,1,3,0,1,0,0
+443,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,0 jiwa,Karyawan Swasta,5-10 juta,> 30%,3,3,3,3,3,3,0,1,0,0
