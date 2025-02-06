@@ -1,449 +1,449 @@
-,product,age,gender,marriage,work,purpose,net,savings,functionality,admin_fee,limit,interest,initial_deposit,overall,others
-0,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,4,4,3,1,3,-
-1,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,2,3,2,2,3,Praktis 
-2,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,3,4,3,1,4,Integritas dan nama baik perusahaan tersebut secara track record
-3,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,10-20%,3,3,3,2,1,3,Tidak ada
-4,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,3,4,3,1,3,Bebas biaya admin untuk transfer antar bank dan isi e wallet
-5,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,2,3,3,1,4,Tidak ada
-6,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,3,4,3,1,4,Desain kartu menarik
-7,Tabungan Premium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4,4,4,4,2,4,Tidak ada
-8,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,3,3,2,2,3,Bank yang terbukti
-9,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3,3,4,3,2,3,Tidak ada
-10,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,5-10%,3,3,4,3,1,3,"kemudahan dan kepraktisan melakukan transaksi, keamanan dalam transaksi, report pengeluaran dan pemasukan dapat tercatat secara detail"
-11,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3,3,4,3,3,3,tidak ada
-12,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,4,4,3,1,4,"Keamanan yg terjamin , popularitas penyedia layanan yg telah diketahui semua orang"
-13,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,3,4,4,1,2,3,Tidak ada
-14,Tabungan Medium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,3,3,3,3,2,3,Tidak ada
-15,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,2,4,2,2,3,Tidak ada
-16,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4,4,4,4,4,4,Tidak ada
-17,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%,3,3,3,2,2,3,Tidak ada
-18,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,3,3,3,2,4,Tidak ada
-19,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,20-30%,4,4,1,2,1,3,Tidak ada
-20,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,4,2,1,4,Convenience dan praktis
-21,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3,3,4,3,2,3,tidak ada
-22,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4,4,2,2,1,3,tidak
-23,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%,4,4,4,1,1,3,Menyamakan dengan produk simpanan yang dipilih keluarga
-24,Tabungan Berjangka,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,1,4,1,1,4,Tidak ada
-25,Tabungan Berjangka,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%,4,3,3,3,1,4,Tidak ada
-26,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,3,2,3,1,3,Tidak ada
-27,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,1-5%,4,4,4,2,3,2,Tidak ada
-28,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,4,1,4,TIDAK ADA
-29,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4,4,4,4,2,4,tidak ada
-30,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,3,3,3,2,3,Tidak ada
-31,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3,3,3,3,3,3,Tidak ada
-32,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,2,3,4,bank terpercaya
-33,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,4,4,4,3,1,4,mudah pendaftarannya
-34,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,4,2,1,4," Likuiditas yang tinggi, kemudahan untuk menarik uang kapan saja tanpa penalti"
-35,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,4,4,4,Nama BCA
-36,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,4,3,3,3,4,tidak
-37,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,5-10%,4,4,4,4,1,4,tidak ada
-38,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,4,4,1,4,Tidak ada
-39,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,3,3,3,1,3,Pocket yang membantu
-40,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%,3,3,3,3,2,3,#NAME?
-41,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,> 20 juta,5-10%,3,3,3,1,2,3,Tidak ada
-42,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,1,4,"Please banget, aku menang undiannya ya. Terima kasih Tim. Semangat buat skripsi"
-43,Tabungan Berjangka,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,> 30%,2,3,3,3,1,3,Tidak ada
-44,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,4,3,4,1,1,3,Aksesibilitas dari produk simpanan dan tingkat kepercayaan/trust level bank tersebut. Selain itu saya juga mementingkan customer service yang disediakan oleh produk simpanan. Produk simpanan juga harus mudah untuk diubah uangnya menjadi cash/liquid.
-45,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,1-5%,3,4,3,1,2,3,Untuk kebutuhan pembayaran sehari-hari
-46,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,3,3,4,3,3,Karna produk perbankan yang sudah terjamin aman dan nyamannya. 
-47,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3,2,3,3,3,3,Diarahkan oleh teller bank tersebut
-48,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,0%,3,2,3,2,3,2,"Ya, selain bunga, limit, dan biaya admin, saya juga mempertimbangkan faktor keamanan dan kemudahan akses dalam memilih produk simpanan individu. Misalnya, saya mencari produk yang memiliki fitur keamanan yang kuat seperti otentikasi dua faktor dan perlindungan data yang baik. Selain itu, saya lebih memilih produk yang mudah diakses melalui aplikasi digital, sehingga saya dapat memantau dan mengelola simpanan kapan saja dan di mana saja. Layanan pelanggan yang responsif juga menjadi salah satu pertimbangan, agar saya bisa mendapatkan bantuan dengan cepat jika ada masalah."
-49,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,4,4,Tidak
-50,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,3,4,3,3,1,3,Tidak ada
-51,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,2,4,1,1,3,Tidak ada
-52,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,4,2,4,Kemudahannya
-53,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,3,4,4,1,3,Tidak ada
-54,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,4,4,2,"Selain bunga, limit, dan biaya admin, saya juga mempertimbangkan reputasi dan kredibilitas lembaga keuangan yang menawarkan produk simpanan tersebut. Bagi saya, penting untuk memilih lembaga yang memiliki rekam jejak yang baik dalam menjaga keamanan dana nasabah. Faktor lain yang saya perhatikan adalah fitur tambahan yang ditawarkan, seperti cashback, poin reward, atau potongan biaya transaksi. Selain itu, fleksibilitas dalam pengelolaan dana—misalnya, kemudahan untuk menarik dana atau melakukan top-up secara online—juga menjadi alasan saya memilih produk ini."
-55,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3,4,4,2,1,3,karna kemudahan utk menabung saja
-56,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,2,2,2,2,2,3,Ada
-57,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,2,1,2,2,3,3,"Biaya admin pulsa, dan malasnya mengambil duit cash"
-58,Tabungan Berjangka,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2,2,3,3,4,2,"Tentu, selain bunga, limit, dan biaya admin, saya juga mempertimbangkan kemudahan integrasi produk dengan layanan finansial lain yang saya gunakan, seperti mobile banking atau e-wallet. Fitur tambahan, seperti program loyalitas atau promosi khusus yang menguntungkan nasabah, juga menjadi daya tarik tersendiri. Faktor transparansi informasi juga penting bagi saya; saya merasa lebih nyaman menggunakan produk dari lembaga yang jelas dalam memberikan informasi terkait ketentuan dan kebijakan mereka. Hal ini membantu saya merasa lebih yakin dan nyaman dalam menggunakan produk simpanan tersebut."
-59,Tabungan Medium,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%,3,3,3,3,2,3,Tidak ada
-60,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,4,4,4,4,1,3,Tidak ada
-61,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,4,4,kemudahan bertransaksi
-62,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,4,4,4,1,4,Tidak ada
-63,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3,3,3,1,1,3,Tidak ada
-64,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,3,4,4,1,4,tidak ada
-65,Tabungan Online,30-55 tahun,Perempuan,Kawin,Lainnya,Investasi,< 1 juta,1-5%,2,2,2,1,1,3,Tidak ada
-66,Tabungan Pelajar,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,4,3,3,1,3,"terpercaya dan terjamin, aman"
-67,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,3,4,4,4,3,"Tidak ada, hanya sekedar untuk menabung"
-68,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,3,1,4,Karena karyawan BCA tidak ada biaya admin
-69,TabunganKu,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,3,2,4,2,2,4,Tidak ada
-70,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%,4,4,4,4,1,4,Tidak ada
-71,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,3,3,3,2,3,Tidak ada
-72,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4,4,4,4,1,4,Tidak ada
-73,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,2,3,4,2,4,Tidak ada
-74,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%,4,4,4,3,1,3,Tidak ada 
-75,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3,4,3,3,2,3,Tidak ada
-76,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,4,4,1,3,Ada. Contohnya ada cashback dan ada fitur keamanan. 
-77,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,5-10%,4,4,4,2,1,4,Tidak ada
-78,Tabungan Regular,> 55 tahun,Perempuan,Kawin,Karyawan Swasta,Lainnya,15-20 juta,20-30%,4,4,4,4,4,4,Tidak ada
-79,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Investasi,> 20 juta,> 30%,4,4,4,4,1,4,Txn mudah
-80,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%,4,4,4,1,1,4,Fas ebankingnya bagus dan friendly
-81,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,1,1,4,Tidak ada
-82,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,3,1,3,1,4,2,"Produk kompetitor tidak lebih baik, sama saja, kelebihan kompetitor kelemahan bank yang saya pakai  sekarang dan sebaliknya kekurangan kompetitor adalah kelebihan bank yang saya pakai, jadi sama saja deh"
-83,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3,3,4,2,1,3,Tidak ada
-84,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,> 20 juta,20-30%,4,1,4,1,1,2,Trust Bank
-85,Tabungan Premium,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,> 30%,3,3,4,3,1,3,Kemudahan
-86,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4,4,4,1,1,4,Tidak ada
-87,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4,4,4,2,1,4,Tidak ada
-88,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,1,1,4,Tidak ada
-89,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,3,2,2,2,Mudah
-90,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,3,3,3,2,2,Tidak ada
-91,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,4,4,4,1,4,Sangat dibutuhkan di marketplace
-92,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,3,2,4,kepercayaan
-93,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",> 20 juta,20-30%,4,4,4,4,1,4,Tidak ada
-94,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%,4,4,4,4,4,4,Tidak ada
-95,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Investasi,5-10 juta,10-20%,3,3,3,3,3,3,risiko rendah
-96,Tabungan Pelajar,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,10-20%,4,1,3,4,3,3,Memudahkan dalam menabung karena layanan cepat
-97,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,3,2,3,1,3,tidak ada
-98,Tabungan Regular,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,4,4,4,4,1,4,Semua sudah berjalan dengan lancwar dan terperinci
-99,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,4,4,4,1,4,Tidak ada
-100,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,2,3,4,digital banking
-101,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4,4,4,4,4,4,Tidak ada
-102,TabunganKu,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,10-20%,4,4,4,4,4,4,Tidak ada
-103,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4,3,3,4,2,4,Tidak ada
-104,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,4,4,4,Tidak ada
-105,Tabungan Berjangka,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,4,4,4,3,1,4,Tidak 
-106,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,20-30%,3,4,4,4,2,4,"Lebih fleksibel, dapat digunakan sebagai alat pembayaran sehingga tidak terlalu banyak membawa uang tunai"
-107,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,4,4,4,1,1,4,Tidak ada
-108,Tabungan Regular,21-30 tahun,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,10-20%,4,4,4,2,1,4,Tidak ada
-109,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,3,4,4,2,1,4,Utk trx sehari hari
-110,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,5-10%,2,3,4,3,1,3,tidak ada
-111,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,4,3,4,3,1,4,tidak ada
-112,Tabungan Regular,> 55 tahun,Laki-laki,Kawin,Lainnya,Investasi,> 20 juta,5-10%,4,4,4,1,1,4,Layanan bagus
-113,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Lainnya",< 1 juta,5-10%,4,3,4,2,1,4,Tidak ada
-114,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,4,4,4,1,3,tidak
-115,Tabungan Berjangka,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%,4,1,4,4,1,4,Tidak ada
-116,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,3,4,3,1,3,Tidak ada
-117,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,5-10%,4,3,3,3,1,4,Tdk ads
-118,Tabungan Medium,21-30 tahun,Perempuan,Belum Kawin,Pelajar,Kegiatan sehari-hari,1-5 juta,0%,3,3,3,3,1,3,Warna kartu
-119,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,10-20%,3,3,3,2,2,3,"kemudahan bertransaksi, CS yang baik, dukungan aplikasi yang bagus"
-120,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3,3,3,3,3,3,Tidak ada
-121,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,4,4,3,4,3,4,produknya paling kren
-122,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2,3,3,4,1,3,Tidak ada
-123,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,2,3,4,1,4,Tidak ada
-124,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,3,1,4,Tidak ada.
-125,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,3,1,4,Tidak ada
-126,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4,4,3,3,3,3,Kualitas bank
-127,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4,3,4,4,1,4,Untuk investasi dan keperluan menabung yang lebih aman
-128,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,2,4,1,1,4,Brand trust
-129,Tabungan Anak Muda,12-17 tahun,Perempuan,Belum Kawin,Pelajar,"Investasi, Kegiatan sehari-hari",< 1 juta,10-20%,4,3,4,4,1,4,Tidak ada
-130,Tabungan Regular,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,20-30%,4,2,3,3,3,3,merasa aman punya simpanan
-131,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,4,1,4,Tidak ada
-132,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,2,4,3,2,1,3,-
-133,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,Tidak ada
-134,Tabungan Premium,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,2,2,3,Tidak ada
-135,Tabungan Medium,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,4,2,2,1,2,3,"Tawaran promo dari merchant” terkait jenis account yang saya buka.
+,product,age,domicile,gender,marriage,work,purpose,net,savings,functionality,admin_fee,limit,interest,initial_deposit,overall,others
+0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,4,4,3,1,3,-
+1,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,2,3,2,2,3,Praktis 
+2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,3,4,3,1,4,Integritas dan nama baik perusahaan tersebut secara track record
+3,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,10-20%,3,3,3,2,1,3,Tidak ada
+4,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,3,4,3,1,3,Bebas biaya admin untuk transfer antar bank dan isi e wallet
+5,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,2,3,3,1,4,Tidak ada
+6,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,3,4,3,1,4,Desain kartu menarik
+7,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4,4,4,4,2,4,Tidak ada
+8,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,3,3,2,2,3,Bank yang terbukti
+9,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3,3,4,3,2,3,Tidak ada
+10,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,5-10%,3,3,4,3,1,3,"kemudahan dan kepraktisan melakukan transaksi, keamanan dalam transaksi, report pengeluaran dan pemasukan dapat tercatat secara detail"
+11,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3,3,4,3,3,3,tidak ada
+12,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,4,4,3,1,4,"Keamanan yg terjamin , popularitas penyedia layanan yg telah diketahui semua orang"
+13,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,3,4,4,1,2,3,Tidak ada
+14,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,3,3,3,3,2,3,Tidak ada
+15,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,2,4,2,2,3,Tidak ada
+16,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4,4,4,4,4,4,Tidak ada
+17,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%,3,3,3,2,2,3,Tidak ada
+18,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,3,3,3,2,4,Tidak ada
+19,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,20-30%,4,4,1,2,1,3,Tidak ada
+20,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,4,2,1,4,Convenience dan praktis
+21,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3,3,4,3,2,3,tidak ada
+22,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4,4,2,2,1,3,tidak
+23,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%,4,4,4,1,1,3,Menyamakan dengan produk simpanan yang dipilih keluarga
+24,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,1,4,1,1,4,Tidak ada
+25,Tabungan Berjangka,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%,4,3,3,3,1,4,Tidak ada
+26,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,3,2,3,1,3,Tidak ada
+27,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,1-5%,4,4,4,2,3,2,Tidak ada
+28,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,4,1,4,TIDAK ADA
+29,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4,4,4,4,2,4,tidak ada
+30,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,3,3,3,2,3,Tidak ada
+31,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3,3,3,3,3,3,Tidak ada
+32,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,2,3,4,bank terpercaya
+33,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,4,4,4,3,1,4,mudah pendaftarannya
+34,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,4,2,1,4," Likuiditas yang tinggi, kemudahan untuk menarik uang kapan saja tanpa penalti"
+35,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,4,4,4,Nama BCA
+36,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,4,3,3,3,4,tidak
+37,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,5-10%,4,4,4,4,1,4,tidak ada
+38,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,4,4,1,4,Tidak ada
+39,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,3,3,3,1,3,Pocket yang membantu
+40,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%,3,3,3,3,2,3,#NAME?
+41,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,> 20 juta,5-10%,3,3,3,1,2,3,Tidak ada
+42,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,1,4,"Please banget, aku menang undiannya ya. Terima kasih Tim. Semangat buat skripsi"
+43,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,> 30%,2,3,3,3,1,3,Tidak ada
+44,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,4,3,4,1,1,3,Aksesibilitas dari produk simpanan dan tingkat kepercayaan/trust level bank tersebut. Selain itu saya juga mementingkan customer service yang disediakan oleh produk simpanan. Produk simpanan juga harus mudah untuk diubah uangnya menjadi cash/liquid.
+45,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,1-5%,3,4,3,1,2,3,Untuk kebutuhan pembayaran sehari-hari
+46,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,3,3,4,3,3,Karna produk perbankan yang sudah terjamin aman dan nyamannya. 
+47,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3,2,3,3,3,3,Diarahkan oleh teller bank tersebut
+48,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,0%,3,2,3,2,3,2,"Ya, selain bunga, limit, dan biaya admin, saya juga mempertimbangkan faktor keamanan dan kemudahan akses dalam memilih produk simpanan individu. Misalnya, saya mencari produk yang memiliki fitur keamanan yang kuat seperti otentikasi dua faktor dan perlindungan data yang baik. Selain itu, saya lebih memilih produk yang mudah diakses melalui aplikasi digital, sehingga saya dapat memantau dan mengelola simpanan kapan saja dan di mana saja. Layanan pelanggan yang responsif juga menjadi salah satu pertimbangan, agar saya bisa mendapatkan bantuan dengan cepat jika ada masalah."
+49,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,4,4,Tidak
+50,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,3,4,3,3,1,3,Tidak ada
+51,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,2,4,1,1,3,Tidak ada
+52,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,4,2,4,Kemudahannya
+53,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,3,4,4,1,3,Tidak ada
+54,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,4,4,2,"Selain bunga, limit, dan biaya admin, saya juga mempertimbangkan reputasi dan kredibilitas lembaga keuangan yang menawarkan produk simpanan tersebut. Bagi saya, penting untuk memilih lembaga yang memiliki rekam jejak yang baik dalam menjaga keamanan dana nasabah. Faktor lain yang saya perhatikan adalah fitur tambahan yang ditawarkan, seperti cashback, poin reward, atau potongan biaya transaksi. Selain itu, fleksibilitas dalam pengelolaan dana—misalnya, kemudahan untuk menarik dana atau melakukan top-up secara online—juga menjadi alasan saya memilih produk ini."
+55,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3,4,4,2,1,3,karna kemudahan utk menabung saja
+56,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,2,2,2,2,2,3,Ada
+57,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,2,1,2,2,3,3,"Biaya admin pulsa, dan malasnya mengambil duit cash"
+58,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2,2,3,3,4,2,"Tentu, selain bunga, limit, dan biaya admin, saya juga mempertimbangkan kemudahan integrasi produk dengan layanan finansial lain yang saya gunakan, seperti mobile banking atau e-wallet. Fitur tambahan, seperti program loyalitas atau promosi khusus yang menguntungkan nasabah, juga menjadi daya tarik tersendiri. Faktor transparansi informasi juga penting bagi saya; saya merasa lebih nyaman menggunakan produk dari lembaga yang jelas dalam memberikan informasi terkait ketentuan dan kebijakan mereka. Hal ini membantu saya merasa lebih yakin dan nyaman dalam menggunakan produk simpanan tersebut."
+59,Tabungan Medium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%,3,3,3,3,2,3,Tidak ada
+60,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,4,4,4,4,1,3,Tidak ada
+61,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,4,4,kemudahan bertransaksi
+62,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,4,4,4,1,4,Tidak ada
+63,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3,3,3,1,1,3,Tidak ada
+64,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,3,4,4,1,4,tidak ada
+65,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Lainnya,Investasi,< 1 juta,1-5%,2,2,2,1,1,3,Tidak ada
+66,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,4,3,3,1,3,"terpercaya dan terjamin, aman"
+67,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,3,4,4,4,3,"Tidak ada, hanya sekedar untuk menabung"
+68,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,3,1,4,Karena karyawan BCA tidak ada biaya admin
+69,TabunganKu,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,3,2,4,2,2,4,Tidak ada
+70,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%,4,4,4,4,1,4,Tidak ada
+71,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,3,3,3,2,3,Tidak ada
+72,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4,4,4,4,1,4,Tidak ada
+73,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,2,3,4,2,4,Tidak ada
+74,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%,4,4,4,3,1,3,Tidak ada 
+75,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3,4,3,3,2,3,Tidak ada
+76,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,4,4,1,3,Ada. Contohnya ada cashback dan ada fitur keamanan. 
+77,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,5-10%,4,4,4,2,1,4,Tidak ada
+78,Tabungan Regular,> 55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Lainnya,15-20 juta,20-30%,4,4,4,4,4,4,Tidak ada
+79,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,> 20 juta,> 30%,4,4,4,4,1,4,Txn mudah
+80,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%,4,4,4,1,1,4,Fas ebankingnya bagus dan friendly
+81,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,1,1,4,Tidak ada
+82,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,3,1,3,1,4,2,"Produk kompetitor tidak lebih baik, sama saja, kelebihan kompetitor kelemahan bank yang saya pakai  sekarang dan sebaliknya kekurangan kompetitor adalah kelebihan bank yang saya pakai, jadi sama saja deh"
+83,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3,3,4,2,1,3,Tidak ada
+84,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,> 20 juta,20-30%,4,1,4,1,1,2,Trust Bank
+85,Tabungan Premium,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,> 30%,3,3,4,3,1,3,Kemudahan
+86,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4,4,4,1,1,4,Tidak ada
+87,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4,4,4,2,1,4,Tidak ada
+88,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,1,1,4,Tidak ada
+89,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,3,2,2,2,Mudah
+90,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,3,3,3,2,2,Tidak ada
+91,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,4,4,4,1,4,Sangat dibutuhkan di marketplace
+92,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,3,2,4,kepercayaan
+93,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",> 20 juta,20-30%,4,4,4,4,1,4,Tidak ada
+94,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%,4,4,4,4,4,4,Tidak ada
+95,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,5-10 juta,10-20%,3,3,3,3,3,3,risiko rendah
+96,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,10-20%,4,1,3,4,3,3,Memudahkan dalam menabung karena layanan cepat
+97,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,3,2,3,1,3,tidak ada
+98,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,4,4,4,4,1,4,Semua sudah berjalan dengan lancwar dan terperinci
+99,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,4,4,4,1,4,Tidak ada
+100,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,2,3,4,digital banking
+101,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4,4,4,4,4,4,Tidak ada
+102,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,10-20%,4,4,4,4,4,4,Tidak ada
+103,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4,3,3,4,2,4,Tidak ada
+104,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,4,4,4,Tidak ada
+105,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,4,4,4,3,1,4,Tidak 
+106,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,20-30%,3,4,4,4,2,4,"Lebih fleksibel, dapat digunakan sebagai alat pembayaran sehingga tidak terlalu banyak membawa uang tunai"
+107,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,4,4,4,1,1,4,Tidak ada
+108,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,10-20%,4,4,4,2,1,4,Tidak ada
+109,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,3,4,4,2,1,4,Utk trx sehari hari
+110,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,5-10%,2,3,4,3,1,3,tidak ada
+111,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,4,3,4,3,1,4,tidak ada
+112,Tabungan Regular,> 55 tahun,Non Jabodetabek,Laki-laki,Kawin,Lainnya,Investasi,> 20 juta,5-10%,4,4,4,1,1,4,Layanan bagus
+113,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Lainnya",< 1 juta,5-10%,4,3,4,2,1,4,Tidak ada
+114,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,4,4,4,1,3,tidak
+115,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%,4,1,4,4,1,4,Tidak ada
+116,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,3,4,3,1,3,Tidak ada
+117,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,5-10%,4,3,3,3,1,4,Tdk ads
+118,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pelajar,Kegiatan sehari-hari,1-5 juta,0%,3,3,3,3,1,3,Warna kartu
+119,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,10-20%,3,3,3,2,2,3,"kemudahan bertransaksi, CS yang baik, dukungan aplikasi yang bagus"
+120,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3,3,3,3,3,3,Tidak ada
+121,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,4,4,3,4,3,4,produknya paling kren
+122,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2,3,3,4,1,3,Tidak ada
+123,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,2,3,4,1,4,Tidak ada
+124,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,3,1,4,Tidak ada.
+125,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,3,1,4,Tidak ada
+126,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4,4,3,3,3,3,Kualitas bank
+127,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4,3,4,4,1,4,Untuk investasi dan keperluan menabung yang lebih aman
+128,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,2,4,1,1,4,Brand trust
+129,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,"Investasi, Kegiatan sehari-hari",< 1 juta,10-20%,4,3,4,4,1,4,Tidak ada
+130,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,20-30%,4,2,3,3,3,3,merasa aman punya simpanan
+131,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,4,1,4,Tidak ada
+132,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,2,4,3,2,1,3,-
+133,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,Tidak ada
+134,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4,4,4,2,2,3,Tidak ada
+135,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,4,2,2,1,2,3,"Tawaran promo dari merchant” terkait jenis account yang saya buka.
 
 Tawaran dari telemarketing jika ada product terbaru sehingga saya lebih banyak mempunyai pilihan dalam mengambil keputusan membeli produk investasi/asuransi"
-136,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3,3,4,2,1,4,"Kartu debit nya sangat cantik, saya sangat suka dengan desain nya "
-137,Tabungan Anak Muda,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,Lainnya,5-10 juta,10-20%,3,3,3,3,1,3,Sudah mencukupi kebutuhan sehari-hari 
-138,Tabungan Regular,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,2,1,3,1,3,Tidak ada
-139,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,4,3,1,4,Tidak ada
-140,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,1,3,3,3,3,Tidak ada
-141,Tabungan Online,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,1-5 juta,5-10%,3,3,3,1,1,3,Tidak ada
-142,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,2,3,3,2,3,banknya terpercaya
-143,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,1-5%,4,4,4,3,1,4,kemudahan transaksi dan kelengkapan history transaksi
-144,Tabungan Medium,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,3,4,2,1,4,sudah terjamin reputasi bank dan sudah sesuai keperluan
-145,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,3,2,3,1,4,Untuk keperluan penerimaan penghasilan
-146,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,3,3,3,2,4,Merasa lebih aman aja untuk menabung
-147,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%,2,3,3,1,4,3,Tidak
-148,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,4,3,1,3,Tidak ada.
-149,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,4,3,4,4,1,4,Tidak ada
-150,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Lainnya,1-5 juta,5-10%,3,4,4,3,2,4,karena banyak orang yang sudah memakai nya jadi bisa sedikit dipercaya 
-151,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,3,3,2,3,Tidak ada
-152,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,4,3,2,1,3,-
-153,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Pengusaha,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,3,3,3,3,Sebagai dana darurat & dana pensiun di hari tua
-154,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4,4,4,4,1,4,Tidak ada
-155,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,3,4,2,1,4,Fasilitas untuk rek spt eChannel dan digital bisa digunakan
-156,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,3,3,3,3,2,3,Tidak ada
-157,TabunganKu,21-30 tahun,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,> 30%,4,3,4,1,3,3,Tidak ada
-158,Tabungan Regular,30-55 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,4,4,4,4,1,4,Kebutuhan pembayaran upah kantor
-159,Tabungan Medium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,3,4,4,3,3,2,Sudah terpercaya
-160,TabunganKu,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3,4,3,4,1,4,Tabunganku gada potongan adminnya
-161,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,4,4,4,4,Tidak ada
-162,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,5-10%,4,3,3,3,2,3,Tidak ada
-163,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,4,4,3,2,4,karena mudah ditemukan dimanapun
-164,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,5-10%,3,2,3,2,3,3,Tidak ada
-165,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,3,3,4,3,1,3,Tampilan UI yang menarik dan mudah dipahami
-166,Tabungan Berjangka,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,4,3,3,2,1,3,tidak ada
-167,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",10-15 juta,20-30%,2,2,3,3,2,3,Tidak ada
-168,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4,2,4,2,3,3,Kemudahan mengakses nya melalui mbanking dan fitur aplikasi yang mudah digunakan
-169,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,2,4,4,1,3,"Saya memisahkan tabungan ke dalam beberapa produk simpanan sesuai dengan scopenya masing-masing. Ada yang sengaja disimpan sebagai tabungan deposito, ada juga yang digunakan untuk kebutuhan sehari-hari"
-170,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,2,4,4,3,1,3,administrasi mudah secara online dan tidak perlu menyimpan buku tabungan
-171,Tabungan Online,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,3,2,3,1,2,3,Tidak ada
-172,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,3,4,2,1,4,lebih efisien
-173,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,3,2,1,3,Alasan lainnya seperti proses pembuatan akun yang tergolong mudah dan biaya pembuatan kartu yang lebih murah dibandingkan beberapa produk simpanan individu yang lain.
-174,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,1,1,4,Tidak ada
-175,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4,3,4,1,1,3,Tidak ada
-176,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,2,3,2,3,Tidak ada
-177,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,10-20%,4,4,4,2,1,4,"Reliable, pelayanan gercep"
-178,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,4,2,2,3,Tidak ada
-179,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,2,4,1,1,3,Tidak ada
-180,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,2,3,2,1,4,Prosesnya cepat
-181,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,3,1,4,Tidak ada
-182,Tabungan Medium,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,3,2,3,1,2,3,Karena ortu juga pake jdi bebas biaya admin
-183,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",10-15 juta,1-5%,4,4,4,3,1,3,cara mengisi tabungan yang mudah
-184,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4,2,2,1,2,3,Admin tinggi. Tp bisa apa aja. Flexible. Mudah. Ga ribet. Dan aman si. Yg penting tabungan m banking or mobil bangking itu aman nya nomer 1. Kalo ga aman bahaya. Jd jaga sequritynya
-185,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",10-15 juta,10-20%,4,3,2,1,1,3,layanan terpercaya
-186,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,2,3,2,3,3,-
-187,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,1,4,Tidak
-188,Tabungan Premium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%,4,4,4,3,1,4,-
-189,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,2,4,2,1,4,mbanking
-190,Tabungan Medium,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,2,1,2,1,2,Kemudahan transaksi karena atm banyak. Penggunaan aplikasi mbanking yang mudah. Pelayanan CS yang memuaskan
-191,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4,4,4,3,1,4,Terjamin keamanannya
-192,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,4,3,2,3,Tidak ada
-193,Tabungan Berjangka,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,3,3,4,2,1,4,Tidak ada
-194,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,4,4,-
-195,Tabungan Regular,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,4,4,4,4,1,4,Tidak ada
-196,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,5-10%,3,3,3,3,3,3,Tidak ada
-197,Tabungan Berjangka,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3,3,3,3,2,4,Tidak ada
-198,Tabungan Premium,30-55 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,4,4,2,1,4,Digunakan sebagai rekening untuk menerima gaji atau penghasilan
-199,Tabungan Anak Muda,30-55 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Lainnya",> 20 juta,20-30%,3,2,4,4,1,4,"Tidak perlu mempunyai buku tabungan, simple dan mudah"
-200,Tabungan Online,30-55 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",> 20 juta,20-30%,4,4,4,4,1,4,Simple dan mudah diakses di mana saja karena online
-201,Tabungan Regular,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,3,1,3,Tidak ada
-202,Tabungan Regular,21-30 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,5-10%,3,2,3,2,2,2,Tidak ada
-203,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,3,1,4,Tidak ada
-204,Tabungan Pelajar,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,3,3,3,4,3,Tidak ada
-205,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%,3,2,3,2,3,3,Easy to use
-206,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4,3,4,4,1,4,Tidak ada
-207,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,3,3,2,3,praktis
-208,Tabungan Medium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4,4,4,2,1,4,Tidak ada
-209,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,20-30%,4,4,4,4,4,4,tidak ada
-210,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,3,2,4,"Izin menyarankan faktor yang bisa dipertimbangkan atas produk simpanan individu adalah biaya transfer ke sesama bank/bank lain dan top up e-wallet.
+136,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3,3,4,2,1,4,"Kartu debit nya sangat cantik, saya sangat suka dengan desain nya "
+137,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Lainnya,5-10 juta,10-20%,3,3,3,3,1,3,Sudah mencukupi kebutuhan sehari-hari 
+138,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,2,1,3,1,3,Tidak ada
+139,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,4,3,1,4,Tidak ada
+140,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,1,3,3,3,3,Tidak ada
+141,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,1-5 juta,5-10%,3,3,3,1,1,3,Tidak ada
+142,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,2,3,3,2,3,banknya terpercaya
+143,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,1-5%,4,4,4,3,1,4,kemudahan transaksi dan kelengkapan history transaksi
+144,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,3,4,2,1,4,sudah terjamin reputasi bank dan sudah sesuai keperluan
+145,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,3,2,3,1,4,Untuk keperluan penerimaan penghasilan
+146,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,3,3,3,2,4,Merasa lebih aman aja untuk menabung
+147,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%,2,3,3,1,4,3,Tidak
+148,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,4,3,1,3,Tidak ada.
+149,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,4,3,4,4,1,4,Tidak ada
+150,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Lainnya,1-5 juta,5-10%,3,4,4,3,2,4,karena banyak orang yang sudah memakai nya jadi bisa sedikit dipercaya 
+151,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,3,3,2,3,Tidak ada
+152,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,4,3,2,1,3,-
+153,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pengusaha,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,3,3,3,3,Sebagai dana darurat & dana pensiun di hari tua
+154,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4,4,4,4,1,4,Tidak ada
+155,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,3,4,2,1,4,Fasilitas untuk rek spt eChannel dan digital bisa digunakan
+156,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,3,3,3,3,2,3,Tidak ada
+157,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,> 30%,4,3,4,1,3,3,Tidak ada
+158,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,4,4,4,4,1,4,Kebutuhan pembayaran upah kantor
+159,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,3,4,4,3,3,2,Sudah terpercaya
+160,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3,4,3,4,1,4,Tabunganku gada potongan adminnya
+161,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,4,4,4,4,Tidak ada
+162,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,5-10%,4,3,3,3,2,3,Tidak ada
+163,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,4,4,3,2,4,karena mudah ditemukan dimanapun
+164,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,5-10%,3,2,3,2,3,3,Tidak ada
+165,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,3,3,4,3,1,3,Tampilan UI yang menarik dan mudah dipahami
+166,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,4,3,3,2,1,3,tidak ada
+167,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",10-15 juta,20-30%,2,2,3,3,2,3,Tidak ada
+168,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4,2,4,2,3,3,Kemudahan mengakses nya melalui mbanking dan fitur aplikasi yang mudah digunakan
+169,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,2,4,4,1,3,"Saya memisahkan tabungan ke dalam beberapa produk simpanan sesuai dengan scopenya masing-masing. Ada yang sengaja disimpan sebagai tabungan deposito, ada juga yang digunakan untuk kebutuhan sehari-hari"
+170,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,2,4,4,3,1,3,administrasi mudah secara online dan tidak perlu menyimpan buku tabungan
+171,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,3,2,3,1,2,3,Tidak ada
+172,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,3,4,2,1,4,lebih efisien
+173,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,3,2,1,3,Alasan lainnya seperti proses pembuatan akun yang tergolong mudah dan biaya pembuatan kartu yang lebih murah dibandingkan beberapa produk simpanan individu yang lain.
+174,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,1,1,4,Tidak ada
+175,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4,3,4,1,1,3,Tidak ada
+176,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,2,3,2,3,Tidak ada
+177,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,10-20%,4,4,4,2,1,4,"Reliable, pelayanan gercep"
+178,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,4,2,2,3,Tidak ada
+179,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,2,4,1,1,3,Tidak ada
+180,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,2,3,2,1,4,Prosesnya cepat
+181,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,3,1,4,Tidak ada
+182,Tabungan Medium,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,3,2,3,1,2,3,Karena ortu juga pake jdi bebas biaya admin
+183,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",10-15 juta,1-5%,4,4,4,3,1,3,cara mengisi tabungan yang mudah
+184,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4,2,2,1,2,3,Admin tinggi. Tp bisa apa aja. Flexible. Mudah. Ga ribet. Dan aman si. Yg penting tabungan m banking or mobil bangking itu aman nya nomer 1. Kalo ga aman bahaya. Jd jaga sequritynya
+185,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",10-15 juta,10-20%,4,3,2,1,1,3,layanan terpercaya
+186,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,2,3,2,3,3,-
+187,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,1,4,Tidak
+188,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%,4,4,4,3,1,4,-
+189,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,2,4,2,1,4,mbanking
+190,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,2,1,2,1,2,Kemudahan transaksi karena atm banyak. Penggunaan aplikasi mbanking yang mudah. Pelayanan CS yang memuaskan
+191,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4,4,4,3,1,4,Terjamin keamanannya
+192,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,4,3,2,3,Tidak ada
+193,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,3,3,4,2,1,4,Tidak ada
+194,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,4,4,-
+195,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,4,4,4,4,1,4,Tidak ada
+196,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,5-10%,3,3,3,3,3,3,Tidak ada
+197,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3,3,3,3,2,4,Tidak ada
+198,Tabungan Premium,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4,4,4,2,1,4,Digunakan sebagai rekening untuk menerima gaji atau penghasilan
+199,Tabungan Anak Muda,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Lainnya",> 20 juta,20-30%,3,2,4,4,1,4,"Tidak perlu mempunyai buku tabungan, simple dan mudah"
+200,Tabungan Online,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",> 20 juta,20-30%,4,4,4,4,1,4,Simple dan mudah diakses di mana saja karena online
+201,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,3,1,3,Tidak ada
+202,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,5-10%,3,2,3,2,2,2,Tidak ada
+203,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,3,1,4,Tidak ada
+204,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,3,3,3,4,3,Tidak ada
+205,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%,3,2,3,2,3,3,Easy to use
+206,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4,3,4,4,1,4,Tidak ada
+207,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,3,3,2,3,praktis
+208,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4,4,4,2,1,4,Tidak ada
+209,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,20-30%,4,4,4,4,4,4,tidak ada
+210,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,3,2,4,"Izin menyarankan faktor yang bisa dipertimbangkan atas produk simpanan individu adalah biaya transfer ke sesama bank/bank lain dan top up e-wallet.
 
 Alasan penggunaan produk simpanan karena tuntutan zaman digital atas kemudahan pembayaran secara digital."
-211,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,3,4,2,4,Tidak ada
-212,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,3,2,1,3,lebih terpercaya
-213,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3,3,3,2,2,3,tidak perlu buku tabungan sehingga simpel
-214,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4,3,4,4,1,4,Tidak ada
-215,Tabungan Online,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4,2,4,4,2,3,Promo dan bunga yang banyak
-216,Tabungan Premium,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,Tidak ada
-217,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,2,1,2,1,3,Tidak ada
-218,Tabungan Valas,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4,4,4,3,1,4,Investasi
-219,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,2,3,2,1,3,Tidak ada
-220,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,3,4,3,1,4,Produk tersebut dapat digunakan dengan fleksibel dimana saja dan kapan saja sehingga sangat membantu kegiatan transaksi sehari-hari 
-221,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,4,4,Tidak ada
-222,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,3,1,4,Umum digunakan oleh banyak orang.
-223,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,3,4,3,2,4,Tidak ada
-224,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,3,4,2,4,Keluarga saya makai produk yang sama
-225,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,4,3,3,1,3,Tidak ada
-226,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,2,3,3,1,3,Tidak ada
-227,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4,3,3,3,2,3,Kemudahan bertransaksi serta tingkat keamanan yang baik.
-228,Tabungan Medium,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,4,3,2,3,3,Kepercayaan terhadap bank terkait
-229,Tabungan Medium,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,20-30%,3,3,4,1,2,3,Keragaman fitur
-230,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,4,3,1,4,Tidak ada
-231,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,3,4,3,2,3,Tidak ada
-232,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3,2,3,3,3,3,Tidak ada
-233,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%,4,4,4,4,2,3,karena kebutuhan transaksi sehari-hari
-234,Tabungan Premium,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%,4,3,4,4,1,4,Kemudahan transaksi
-235,Tabungan Online,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,10-20%,4,4,3,3,1,4,Promo bebas biaya transfer
-236,TabunganKu,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,3,3,3,3,3,Fleksible dalam menabung uang
-237,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,3,3,3,3,3,Tidak ada
-238,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,2,4,3,2,3,aplikasi yang user friendly 
-239,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,3,4,4,Bank yang terpercaya
-240,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,2,4,3,1,4,bisa dibuat di usia muda saat masih di bangku SMP
-241,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4,4,4,3,1,4,Memiliki sistem ranking dengan beberapa benefit jika terus menabung
-242,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,3,3,2,4,Tampilan kartu /Cover saat itu sangat menarik dan banyak tema dan warnanya
-243,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,3,3,2,3,Tidak ada
-244,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,3,4,2,2,4,Tidak ada
-245,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4,4,4,3,1,3,Tidak ada
-246,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,1,4,Syarat setoran awal ringan
-247,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,1,1,4,tidak ada
-248,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Kegiatan sehari-hari, Lainnya",5-10 juta,1-5%,4,4,4,3,1,4,Tidak ada
-249,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,20-30%,4,4,3,3,4,4,Terkenal
-250,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,> 30%,3,2,3,3,1,3,Tidak ada
-251,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,1-5%,2,2,2,2,3,3,Tidak ada
-252,Tabungan Regular,21-30 tahun,Perempuan,Kawin,Karyawan Swasta,Investasi,10-15 juta,1-5%,3,3,3,2,4,3,Tidak ada
-253,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,> 30%,2,2,3,2,2,3,Tidak ada
-254,Tabungan Regular,30-55 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%,3,3,3,2,2,3,Keamanan dan dapat ditarik
-255,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,5-10%,2,3,3,3,1,2,Tidak ada
-256,Tabungan Berjangka,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,4,3,1,4,Tidak
-257,Tabungan Regular,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,4,4,4,4,4,Tidak ada
-258,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%,4,4,4,4,1,4,mudah digunakan dan fleksibel
-259,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,3,4,2,1,3,-
-260,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,4,4,4,Tidak ada
-261,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,3,4,3,2,1,3,kepercayaan
-262,Tabungan Online,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,2,4,1,3,4,Convenience (untuk transfer secara lebih mudah)
-263,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,1,4,tidak
-264,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%,4,3,3,3,1,3,"Sebagai uang jaga"" dikala ada kebutuhan mendadak"
-265,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,1-5%,3,3,3,3,2,4,Tidak ada
-266,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,4,2,2,3,"Keluarga saya semua memiliki tabungan di bank itu, jadi itu yang direkomendasikan ke saya (BCA)"
-267,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,2,3,3,2,3,Tidak ada
-268,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,4,3,3,3,1,3,Tidak ada
-269,Tabungan Regular,30-55 tahun,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3,2,4,2,2,3,Tidak ada
-270,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Investasi,1-5 juta,10-20%,4,3,4,1,1,4,tidak ada
-271,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%,4,4,4,4,4,4,Tidak ada
-272,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,2,1,3,Tidak ada
-273,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,4,4,3,2,3,Tidak ada
-274,Tabungan Berjangka,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,1,4,2,3,Tidak ada
-275,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,3,3,3,3,2,3,Belum ada
-276,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,3,3,4,Tidak ada
-277,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,4,1,4,Tidak ada
-278,Tabungan Anak Muda,12-17 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4,3,4,2,2,3,Tidak ada
-279,Tabungan Berjangka,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%,3,3,3,3,3,3,Tidak ada
-280,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,4,4,-
-281,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,3,4,2,1,3,Tidak ada
-282,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,3,2,1,3,Tidak ada
-283,Tabungan Regular,30-55 tahun,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,10-20%,4,4,4,4,4,4,Kemudahan transaksi menggunakan e-channel
-284,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,3,4,4,1,4,tidak
-285,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,4,4,1,4,Tidak ada
-286,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,3,4,3,1,4,Tidak ada
-287,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,> 30%,3,4,3,2,1,3,aman
-288,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,4,3,1,3,tidak ada
-289,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,4,3,1,3,Tidak ada
-290,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%,4,4,4,4,1,4,Tidak ada
-291,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,1,3,2,1,3,Tidak ada
-292,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Pelajar,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3,3,3,2,3,2,Tidak ada
-293,Tabungan Pelajar,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,3,3,3,3,-
-294,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,> 30%,4,3,4,3,2,4,Tidak ada
-295,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,4,1,4,-
-296,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,2,3,Kebutuhan Payroll Karyawan
-297,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,4,1,4,penggunaan yang simple
-298,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,2,1,3,-
-299,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,3,4,3,1,4,Tidak ada
-300,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,4,3,1,4,Tidak ada
-301,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,4,4,1,4,"Kemudahan, kelengkapan akses"
-302,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,4,1,1,4,Tidak ada
-303,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,akreditasi bank yang sangat baik yang membuat saya percaya untuk menyimpan uang di bank tersebut dengan produk yang hampir semua orang pakai
-304,Tabungan Berjangka,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,10-20%,4,4,4,3,1,4,"promo bank, kebetulan saat itu ada promo jika membuka tabungan akan mendapatkan souvenir"
-305,Tabungan Pelajar,17-21 tahun,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,3,3,1,3,"Aman, karna sudha ada nama"
-306,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,2,2,3,Tidak ada
-307,Tabungan Online,30-55 tahun,Perempuan,Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,4,4,4,4,1,4,Mayoritas masyarakat menggunakan nya
-308,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,3,3,2,3,Tidak ada
-309,Tabungan Valas,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Lainnya",5-10 juta,1-5%,3,3,3,3,2,3,Awalnyaa untuk tabungan biaya hidup sehari2 ketika berkuliah di LN.
-310,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,10-20%,4,3,3,3,3,3,Tidak ada
-311,Tabungan Berjangka,21-30 tahun,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,20-30%,3,4,4,3,2,4,Karena masih belum mengetahui akan digunakan apa uangnya selain digunakan menjadi kebutuhan sehari hari
-312,Tabungan Berjangka,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%,4,4,4,4,1,4,Tidak ada
-313,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%,4,3,4,3,1,4,kebutuhan perkuliahan
-314,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,3,3,2,4,Tidak ada
-315,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,3,3,2,2,2,2,Tidak ada
-316,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,4,4,Tidak ada
-317,Tabungan Pelajar,21-30 tahun,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,3,1,3,Tidak ada
-318,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,2,4,3,2,3,Tidak ada
-319,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4,4,4,4,2,4,Tidak ada
-320,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2,1,3,1,2,3,Terhubung akun asuransi
-321,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,4,4,1,4,Tidak ada
-322,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,1,2,3,Tidak ada
-323,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,3,3,3,3,Karena sudah umum digunakan
-324,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,3,3,4,1,4,- 
-325,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,20-30%,4,3,3,3,1,3,Tidak ada
-326,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,3,1,4,3,2,3,Tabungan dapat di kategorikan
-327,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,3,1,4,Proses pembukaan rekening yang mudah
-328,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,3,3,2,4,Karena keamanannya
-329,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4,3,4,3,2,3,Tidak ada
-330,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4,3,3,3,2,3,mudah dan praktis
-331,Tabungan Premium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,2,4,Tidak ada
-332,Tabungan Medium,21-30 tahun,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,> 30%,4,3,4,2,1,3,"Kemudahan akses mengecek saldo, dan melakukan transaksi tanpa harus pergi ke bank"
-333,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,1,4,-
-334,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3,4,4,4,1,4,Sebenernya lebih ke waktu awal taunya reguler aja dan gabanyak tau ttg jenis jenis yg ada
-335,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,1,1,3,Tidak ada
-336,Tabungan Pelajar,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,0%,4,3,4,3,3,3,Tidak ada
-337,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,1,4,Keamanan
-338,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,3,2,1,3,Tidak ada
-339,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,3,3,1,3,karena pada awalnya untuk bayar ukt kuliah mengharuskan dari bank yang sama 
-340,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,Mudah digunakan dan aksesnya
-341,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,2,3,2,1,4,"Lebih simpel, bisa diakses pakai hp karena uda digital bisa tracking gampang, merasa aman juga karena simpen di bca"
-342,Tabungan Premium,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,4,4,Warna kartunya baik
-343,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,10-20%,4,4,4,4,4,4,Bunganya besar
-344,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4,4,4,4,1,4,tidak ada
-345,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",< 1 juta,5-10%,3,3,3,3,3,3,tidak ada
-346,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",< 1 juta,20-30%,3,3,4,3,1,4,tidak
-347,TabunganKu,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,4,4,3,1,4,Tidak ada
-348,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,2,4,2,2,3,Tidak ada
-349,Tabungan Pelajar,17-21 tahun,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,0%,4,3,3,3,2,3,-
-350,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%,4,1,4,2,1,3,tampilannya untuk aplikasi onlinenya mudah untuk digunakan
-351,TabunganKu,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%,3,4,4,4,1,3,Tidak ada
-352,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,1,1,1,1,1,1,Tidak ada
-353,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,10-20%,3,4,1,4,1,4,bebas biaya admin dan bebas biaya transfer atau top up
-354,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,3,3,2,1,3,Tidak ada
-355,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,3,2,2,3,Tidak ada
-356,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,1-5%,4,4,4,4,4,4,UI interface
-357,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,4,3,2,4,-
-358,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,1,1,4,kemudahan akses nya
-359,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,3,3,3,2,4,Tidak ada
-360,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,2,3,2,3,3,3,Tidak ada
-361,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%,4,4,4,4,1,4,Benefit dari Bank
-362,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,3,4,2,3,4,ada mbanking
-363,Tabungan Pelajar,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,3,2,3,3,2,3,tidak ada
-364,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3,3,3,2,2,3,Tidak ada
-365,Tabungan Berjangka,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,3,1,3,2,1,3,Karena tabungan dengan sistem autodebet
-366,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,2,4,2,2,3,Tidak ada
-367,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,3,3,2,2,4,Reward
-368,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3,2,4,3,2,4,Tidak ada
-369,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,4,4,3,1,4,Promosi
-370,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4,3,4,4,2,3,Tidak ada
-371,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,3,1,4,-
-372,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%,3,2,2,3,3,3,Tidak ada
-373,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,1-5%,4,4,4,4,4,4,Tdk ada
-374,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,0%,3,1,3,2,1,3,Tidak ada
-375,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,10-20%,3,4,3,3,1,3,-
-376,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3,2,3,2,2,2,Gk ada
-377,Tabungan Pelajar,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,4,4,3,3,3,Tidak ada
-378,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,4,3,3,3,1,3,-
-379,Tabungan Pelajar,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,3,2,1,4,Proses administrasi yang mudah
-380,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,3,3,3,3,Tidak ada
-381,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Pengusaha,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,20-30%,1,3,3,3,2,4,tidak
-382,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,4,4,sudah nyaman
-383,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,4,3,2,3,Tidak ada
-384,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,3,4,4,1,4,Tidak ada
-385,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,3,4,1,1,4,Tidak ada
-386,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,3,4,4,4,1,4,Tertata dengan rapi
-387,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,2,1,4,Tidak ada
-388,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,3,2,2,3,Tidak ada
-389,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3,3,3,3,1,3,-
-390,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,20-30%,4,4,4,4,4,4,Tidak ada
-391,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,4,3,3,3,1,4,Tidak ada
-392,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,3,4,2,3,3,Tidak ada
-393,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,1,1,3,Konvensional
-394,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,3,1,4,Atmnya tersebar dimana-mana
-395,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,4,4,4,4,1,4,Tidak ada
-396,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3,3,3,3,1,3,Tidak ada
-397,Tabungan Berjangka,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4,4,4,4,4,4,autodebet jadi bisa langsung ambil duit😊
-398,Tabungan Berjangka,21-30 tahun,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,10-20%,4,4,4,3,4,3,Bank yang credible
-399,Tabungan Anak Muda,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,> 30%,4,4,3,3,1,3,Sudah dikenal banyak orang dan terkenal aman
-400,TabunganKu,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,> 30%,3,4,4,4,2,4,Tidak ada
-401,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,1,2,2,2,4,2,Tidak ada
-402,Tabungan Online,21-30 tahun,Perempuan,Belum Kawin,Pengusaha,Simpanan jangka panjang,< 1 juta,5-10%,3,3,3,3,3,3,-
-403,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,5-10%,4,4,4,4,2,4,Tidak ada
-404,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,1,2,3,Untuk rekening yg mudah di akses dimana-mana
-405,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,2,1,4,-
-406,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,10-20%,3,2,1,2,1,4,Tidak ada
-407,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,3,3,2,4,Untuk kegiatan sehari-hari
-408,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,3,3,2,3,Tidak ada
-409,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,1,4,-
-410,Tabungan Online,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,3,3,3,1,4,Tidak ada
-411,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4,4,4,3,1,4,Tidak ada
-412,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Lainnya,Kegiatan sehari-hari,10-15 juta,10-20%,3,3,3,3,3,3,Tdak
-413,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,4,4,4,Tidak ada
-414,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,3,3,2,2,3,3,Tidak ada
-415,Tabungan Medium,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,0%,3,3,4,1,1,3,"aksesibilitas, fungsionalitas di Jakarta sangat berguna"
-416,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,20-30%,4,4,4,4,1,3,Tidak ada
-417,Tabungan Online,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,4,3,4,4,3,Tidak ada
-418,TabunganKu,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,3,3,3,3,Tidak ada
-419,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,2,2,3,3,2,3,Tidak ada
-420,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,4,4,4,Kemudahan penggunaan dan promo
-421,Tabungan Regular,30-55 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%,2,3,4,2,1,3,Tidak ada
-422,Tabungan Valas,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,3,2,3,2,2,3,Tidak ada
-423,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,3,1,4,Tidak ada
-424,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,3,1,3,Tidak ada
-425,TabunganKu,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,Investasi,1-5 juta,10-20%,3,3,3,3,3,2,Tidak ada
-426,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,5-10%,2,3,3,1,1,2,Tidak ada
-427,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%,3,3,3,3,3,3,tidak ada
-428,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,2,4,1,3,Tidak ada
-429,Tabungan Regular,12-17 tahun,Perempuan,Belum Kawin,Pelajar,Lainnya,< 1 juta,0%,2,2,2,2,3,2,-
-430,Tabungan Medium,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,4,4,1,1,3,Tidak ada
-431,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,1,1,4,Tidak ada
-432,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%,2,2,3,1,2,2,-
-433,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4,3,3,3,1,4,Tidak ada
-434,Tabungan Premium,21-30 tahun,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%,3,3,3,3,2,3,Karena praktis dan banyak benefitnya
-435,TabunganKu,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%,4,3,3,3,2,3,Tidak ada
-436,Tabungan Pelajar,17-21 tahun,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,< 1 juta,10-20%,4,4,4,4,2,4,Tidak ada
-437,Tabungan Regular,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,10-15 juta,> 30%,3,3,3,1,3,3,karena terpercaya dan harus memiliki produk tersebut
-438,Tabungan Anak Muda,17-21 tahun,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,3,2,3,3,2,tidak ada
-439,Tabungan Regular,21-30 tahun,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,4,4,2,3,Tidak ada
-440,Tabungan Anak Muda,21-30 tahun,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,3,3,1,4,Tidak ada
-441,Tabungan Regular,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,4,3,3,-
-442,Tabungan Regular,17-21 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,3,3,3,2,1,3,Tidak ada
-443,Tabungan Anak Muda,21-30 tahun,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,3,3,3,Sebagai persyaratan untuk pendaftaran beasiswa
+211,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,3,4,2,4,Tidak ada
+212,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,3,2,1,3,lebih terpercaya
+213,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3,3,3,2,2,3,tidak perlu buku tabungan sehingga simpel
+214,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4,3,4,4,1,4,Tidak ada
+215,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4,2,4,4,2,3,Promo dan bunga yang banyak
+216,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,Tidak ada
+217,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,2,1,2,1,3,Tidak ada
+218,Tabungan Valas,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4,4,4,3,1,4,Investasi
+219,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,2,3,2,1,3,Tidak ada
+220,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,3,4,3,1,4,Produk tersebut dapat digunakan dengan fleksibel dimana saja dan kapan saja sehingga sangat membantu kegiatan transaksi sehari-hari 
+221,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,4,4,Tidak ada
+222,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,3,1,4,Umum digunakan oleh banyak orang.
+223,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,3,4,3,2,4,Tidak ada
+224,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,3,4,2,4,Keluarga saya makai produk yang sama
+225,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,4,3,3,1,3,Tidak ada
+226,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,2,3,3,1,3,Tidak ada
+227,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4,3,3,3,2,3,Kemudahan bertransaksi serta tingkat keamanan yang baik.
+228,Tabungan Medium,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,4,3,2,3,3,Kepercayaan terhadap bank terkait
+229,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,20-30%,3,3,4,1,2,3,Keragaman fitur
+230,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,4,3,1,4,Tidak ada
+231,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,3,4,3,2,3,Tidak ada
+232,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3,2,3,3,3,3,Tidak ada
+233,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%,4,4,4,4,2,3,karena kebutuhan transaksi sehari-hari
+234,Tabungan Premium,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%,4,3,4,4,1,4,Kemudahan transaksi
+235,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,10-20%,4,4,3,3,1,4,Promo bebas biaya transfer
+236,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3,3,3,3,3,3,Fleksible dalam menabung uang
+237,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,3,3,3,3,3,Tidak ada
+238,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3,2,4,3,2,3,aplikasi yang user friendly 
+239,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,3,4,4,Bank yang terpercaya
+240,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3,2,4,3,1,4,bisa dibuat di usia muda saat masih di bangku SMP
+241,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4,4,4,3,1,4,Memiliki sistem ranking dengan beberapa benefit jika terus menabung
+242,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,3,3,2,4,Tampilan kartu /Cover saat itu sangat menarik dan banyak tema dan warnanya
+243,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,3,3,2,3,Tidak ada
+244,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,3,4,2,2,4,Tidak ada
+245,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4,4,4,3,1,3,Tidak ada
+246,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,1,4,Syarat setoran awal ringan
+247,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,1,1,4,tidak ada
+248,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Kegiatan sehari-hari, Lainnya",5-10 juta,1-5%,4,4,4,3,1,4,Tidak ada
+249,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,20-30%,4,4,3,3,4,4,Terkenal
+250,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,> 30%,3,2,3,3,1,3,Tidak ada
+251,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,1-5%,2,2,2,2,3,3,Tidak ada
+252,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,10-15 juta,1-5%,3,3,3,2,4,3,Tidak ada
+253,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,> 30%,2,2,3,2,2,3,Tidak ada
+254,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%,3,3,3,2,2,3,Keamanan dan dapat ditarik
+255,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,5-10%,2,3,3,3,1,2,Tidak ada
+256,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,4,3,1,4,Tidak
+257,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,4,4,4,4,4,Tidak ada
+258,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%,4,4,4,4,1,4,mudah digunakan dan fleksibel
+259,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,3,4,2,1,3,-
+260,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,4,4,4,Tidak ada
+261,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,3,4,3,2,1,3,kepercayaan
+262,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,2,4,1,3,4,Convenience (untuk transfer secara lebih mudah)
+263,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,1,4,tidak
+264,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%,4,3,3,3,1,3,"Sebagai uang jaga"" dikala ada kebutuhan mendadak"
+265,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,1-5%,3,3,3,3,2,4,Tidak ada
+266,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,4,2,2,3,"Keluarga saya semua memiliki tabungan di bank itu, jadi itu yang direkomendasikan ke saya (BCA)"
+267,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,2,3,3,2,3,Tidak ada
+268,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,4,3,3,3,1,3,Tidak ada
+269,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3,2,4,2,2,3,Tidak ada
+270,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,1-5 juta,10-20%,4,3,4,1,1,4,tidak ada
+271,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%,4,4,4,4,4,4,Tidak ada
+272,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,2,1,3,Tidak ada
+273,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,4,4,3,2,3,Tidak ada
+274,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,1,4,2,3,Tidak ada
+275,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,3,3,3,3,2,3,Belum ada
+276,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,3,3,4,Tidak ada
+277,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,4,1,4,Tidak ada
+278,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4,3,4,2,2,3,Tidak ada
+279,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%,3,3,3,3,3,3,Tidak ada
+280,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,4,4,-
+281,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,3,4,2,1,3,Tidak ada
+282,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,3,2,1,3,Tidak ada
+283,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,10-20%,4,4,4,4,4,4,Kemudahan transaksi menggunakan e-channel
+284,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,3,4,4,1,4,tidak
+285,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,4,4,1,4,Tidak ada
+286,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,3,4,3,1,4,Tidak ada
+287,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,> 30%,3,4,3,2,1,3,aman
+288,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4,4,4,3,1,3,tidak ada
+289,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,4,3,1,3,Tidak ada
+290,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%,4,4,4,4,1,4,Tidak ada
+291,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,1,3,2,1,3,Tidak ada
+292,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3,3,3,2,3,2,Tidak ada
+293,Tabungan Pelajar,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,3,3,3,3,-
+294,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,> 30%,4,3,4,3,2,4,Tidak ada
+295,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,4,1,4,-
+296,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,2,3,Kebutuhan Payroll Karyawan
+297,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4,4,4,4,1,4,penggunaan yang simple
+298,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,2,1,3,-
+299,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,3,4,3,1,4,Tidak ada
+300,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,4,3,1,4,Tidak ada
+301,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,3,4,4,1,4,"Kemudahan, kelengkapan akses"
+302,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3,3,4,1,1,4,Tidak ada
+303,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,akreditasi bank yang sangat baik yang membuat saya percaya untuk menyimpan uang di bank tersebut dengan produk yang hampir semua orang pakai
+304,Tabungan Berjangka,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,10-20%,4,4,4,3,1,4,"promo bank, kebetulan saat itu ada promo jika membuka tabungan akan mendapatkan souvenir"
+305,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,3,3,1,3,"Aman, karna sudha ada nama"
+306,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,2,2,3,Tidak ada
+307,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,4,4,4,4,1,4,Mayoritas masyarakat menggunakan nya
+308,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,3,3,2,3,Tidak ada
+309,Tabungan Valas,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Lainnya",5-10 juta,1-5%,3,3,3,3,2,3,Awalnyaa untuk tabungan biaya hidup sehari2 ketika berkuliah di LN.
+310,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,10-20%,4,3,3,3,3,3,Tidak ada
+311,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,20-30%,3,4,4,3,2,4,Karena masih belum mengetahui akan digunakan apa uangnya selain digunakan menjadi kebutuhan sehari hari
+312,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%,4,4,4,4,1,4,Tidak ada
+313,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%,4,3,4,3,1,4,kebutuhan perkuliahan
+314,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,3,3,2,4,Tidak ada
+315,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,3,3,2,2,2,2,Tidak ada
+316,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,4,4,Tidak ada
+317,Tabungan Pelajar,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,3,1,3,Tidak ada
+318,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,2,4,3,2,3,Tidak ada
+319,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4,4,4,4,2,4,Tidak ada
+320,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2,1,3,1,2,3,Terhubung akun asuransi
+321,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,3,4,4,1,4,Tidak ada
+322,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,1,2,3,Tidak ada
+323,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,3,3,3,3,Karena sudah umum digunakan
+324,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,3,3,4,1,4,- 
+325,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,20-30%,4,3,3,3,1,3,Tidak ada
+326,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,3,1,4,3,2,3,Tabungan dapat di kategorikan
+327,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,3,1,4,Proses pembukaan rekening yang mudah
+328,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,3,3,2,4,Karena keamanannya
+329,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4,3,4,3,2,3,Tidak ada
+330,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4,3,3,3,2,3,mudah dan praktis
+331,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,2,4,Tidak ada
+332,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,> 30%,4,3,4,2,1,3,"Kemudahan akses mengecek saldo, dan melakukan transaksi tanpa harus pergi ke bank"
+333,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,1,4,-
+334,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3,4,4,4,1,4,Sebenernya lebih ke waktu awal taunya reguler aja dan gabanyak tau ttg jenis jenis yg ada
+335,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,1,1,3,Tidak ada
+336,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,0%,4,3,4,3,3,3,Tidak ada
+337,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,4,1,4,Keamanan
+338,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,3,2,1,3,Tidak ada
+339,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3,3,3,3,1,3,karena pada awalnya untuk bayar ukt kuliah mengharuskan dari bank yang sama 
+340,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,2,1,3,Mudah digunakan dan aksesnya
+341,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3,2,3,2,1,4,"Lebih simpel, bisa diakses pakai hp karena uda digital bisa tracking gampang, merasa aman juga karena simpen di bca"
+342,Tabungan Premium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,4,4,4,4,4,Warna kartunya baik
+343,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,10-20%,4,4,4,4,4,4,Bunganya besar
+344,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4,4,4,4,1,4,tidak ada
+345,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",< 1 juta,5-10%,3,3,3,3,3,3,tidak ada
+346,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",< 1 juta,20-30%,3,3,4,3,1,4,tidak
+347,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3,4,4,3,1,4,Tidak ada
+348,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,2,4,2,2,3,Tidak ada
+349,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,0%,4,3,3,3,2,3,-
+350,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%,4,1,4,2,1,3,tampilannya untuk aplikasi onlinenya mudah untuk digunakan
+351,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%,3,4,4,4,1,3,Tidak ada
+352,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,1,1,1,1,1,1,Tidak ada
+353,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,10-20%,3,4,1,4,1,4,bebas biaya admin dan bebas biaya transfer atau top up
+354,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,3,3,2,1,3,Tidak ada
+355,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,3,2,2,3,Tidak ada
+356,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,1-5%,4,4,4,4,4,4,UI interface
+357,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4,3,4,3,2,4,-
+358,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,1,1,4,kemudahan akses nya
+359,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,3,3,3,2,4,Tidak ada
+360,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,2,3,2,3,3,3,Tidak ada
+361,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%,4,4,4,4,1,4,Benefit dari Bank
+362,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4,3,4,2,3,4,ada mbanking
+363,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,3,2,3,3,2,3,tidak ada
+364,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3,3,3,2,2,3,Tidak ada
+365,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,3,1,3,2,1,3,Karena tabungan dengan sistem autodebet
+366,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3,2,4,2,2,3,Tidak ada
+367,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4,3,3,2,2,4,Reward
+368,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3,2,4,3,2,4,Tidak ada
+369,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,4,4,3,1,4,Promosi
+370,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4,3,4,4,2,3,Tidak ada
+371,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,3,1,4,-
+372,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%,3,2,2,3,3,3,Tidak ada
+373,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,1-5%,4,4,4,4,4,4,Tdk ada
+374,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,0%,3,1,3,2,1,3,Tidak ada
+375,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,10-20%,3,4,3,3,1,3,-
+376,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3,2,3,2,2,2,Gk ada
+377,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3,4,4,3,3,3,Tidak ada
+378,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,4,3,3,3,1,3,-
+379,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,3,2,1,4,Proses administrasi yang mudah
+380,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,3,3,3,3,Tidak ada
+381,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Pengusaha,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,20-30%,1,3,3,3,2,4,tidak
+382,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4,4,4,4,4,4,sudah nyaman
+383,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,4,3,2,3,Tidak ada
+384,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3,3,4,4,1,4,Tidak ada
+385,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,3,4,1,1,4,Tidak ada
+386,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,3,4,4,4,1,4,Tertata dengan rapi
+387,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,2,1,4,Tidak ada
+388,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,3,3,3,2,2,3,Tidak ada
+389,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3,3,3,3,1,3,-
+390,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,20-30%,4,4,4,4,4,4,Tidak ada
+391,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,4,3,3,3,1,4,Tidak ada
+392,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,3,4,2,3,3,Tidak ada
+393,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,1,1,3,Konvensional
+394,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4,4,4,3,1,4,Atmnya tersebar dimana-mana
+395,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,4,4,4,4,1,4,Tidak ada
+396,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3,3,3,3,1,3,Tidak ada
+397,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4,4,4,4,4,4,autodebet jadi bisa langsung ambil duit😊
+398,Tabungan Berjangka,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,10-20%,4,4,4,3,4,3,Bank yang credible
+399,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,> 30%,4,4,3,3,1,3,Sudah dikenal banyak orang dan terkenal aman
+400,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,> 30%,3,4,4,4,2,4,Tidak ada
+401,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,1,2,2,2,4,2,Tidak ada
+402,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pengusaha,Simpanan jangka panjang,< 1 juta,5-10%,3,3,3,3,3,3,-
+403,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,5-10%,4,4,4,4,2,4,Tidak ada
+404,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4,4,4,1,2,3,Untuk rekening yg mudah di akses dimana-mana
+405,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,2,1,4,-
+406,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,10-20%,3,2,1,2,1,4,Tidak ada
+407,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,4,3,3,2,4,Untuk kegiatan sehari-hari
+408,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,3,3,2,3,Tidak ada
+409,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,4,4,1,4,-
+410,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4,3,3,3,1,4,Tidak ada
+411,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4,4,4,3,1,4,Tidak ada
+412,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,Kegiatan sehari-hari,10-15 juta,10-20%,3,3,3,3,3,3,Tdak
+413,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,4,4,4,Tidak ada
+414,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,3,3,2,2,3,3,Tidak ada
+415,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,0%,3,3,4,1,1,3,"aksesibilitas, fungsionalitas di Jakarta sangat berguna"
+416,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,20-30%,4,4,4,4,1,3,Tidak ada
+417,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,4,3,4,4,3,Tidak ada
+418,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3,3,3,3,3,3,Tidak ada
+419,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,2,2,3,3,2,3,Tidak ada
+420,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4,4,4,4,4,4,Kemudahan penggunaan dan promo
+421,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%,2,3,4,2,1,3,Tidak ada
+422,Tabungan Valas,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,3,2,3,2,2,3,Tidak ada
+423,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4,4,4,3,1,4,Tidak ada
+424,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%,4,4,4,3,1,3,Tidak ada
+425,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,1-5 juta,10-20%,3,3,3,3,3,2,Tidak ada
+426,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,5-10%,2,3,3,1,1,2,Tidak ada
+427,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%,3,3,3,3,3,3,tidak ada
+428,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4,4,2,4,1,3,Tidak ada
+429,Tabungan Regular,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,Lainnya,< 1 juta,0%,2,2,2,2,3,2,-
+430,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4,4,4,1,1,3,Tidak ada
+431,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4,4,4,1,1,4,Tidak ada
+432,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%,2,2,3,1,2,2,-
+433,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4,3,3,3,1,4,Tidak ada
+434,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%,3,3,3,3,2,3,Karena praktis dan banyak benefitnya
+435,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%,4,3,3,3,2,3,Tidak ada
+436,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,< 1 juta,10-20%,4,4,4,4,2,4,Tidak ada
+437,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,10-15 juta,> 30%,3,3,3,1,3,3,karena terpercaya dan harus memiliki produk tersebut
+438,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3,3,2,3,3,2,tidak ada
+439,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3,3,4,4,2,3,Tidak ada
+440,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,3,3,3,3,1,4,Tidak ada
+441,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4,4,4,4,3,3,-
+442,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,3,3,3,2,1,3,Tidak ada
+443,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3,3,3,3,3,3,Sebagai persyaratan untuk pendaftaran beasiswa
