@@ -1,4 +1,4 @@
-,produk,umur,domisili,gender,status_perkawinan,profesi,tujuan,penghasilan,persentasi_tabungan,rate_fungsionalitas,rate_admin,rate_limit,rate_bunga,rate_setoran_awal,rate_kebutuhan
+,produk,umur,domisili,gender,status_perkawinan,profesi,tujuan,penghasilan,persentase_tabungan,rate_fungsionalitas,rate_admin,rate_limit,rate_bunga,rate_setoran_awal,rate_kebutuhan
 0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3.0,4.0,4.0,3.0,1.0,3.0
 1,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,2.0,3.0,2.0,2.0,3.0
 2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4.0,3.0,4.0,3.0,1.0,4.0
