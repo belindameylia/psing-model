@@ -4,11 +4,20 @@ from sklearn import preprocessing
 from typing import List
 import pickle
 import numpy as np
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # 👈 untuk development, izinkan semua origin
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Load ML model
-model = pickle.load(open("../export_model/model_naivebayes.pkl", "rb"))
+model = pickle.load(open("../export_model/model_randomforest.pkl", "rb"))
 
 # Load Y Value Encoder
 produk_encoder = pickle.load(open("../export_model/produk.pkl", "rb"))
