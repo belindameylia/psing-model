@@ -1,4 +1,4 @@
-,produk,umur,domisili,gender,status_perkawinan,profesi,tujuan,penghasilan,persentase_tabungan
+,produk,umur,domisili,gender,status_perkawinan,profesi,tujuan,penghasilan,persentasi_tabungan
 0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
 2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%
 4,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%

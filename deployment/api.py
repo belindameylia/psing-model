@@ -5,6 +5,8 @@ from typing import List
 import pickle
 import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
+import lightgbm as lgb
+import xgboost as xgb
 from tensorflow.keras.models import load_model
 
 app = FastAPI()
@@ -17,10 +19,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# # Load ML model
+# # Load ML model RF, SVC, Extra Trees
 # model = pickle.load(open("../export_model/model_svc.pkl", "rb"))
+#
+# # Load LightGBM
+# model = lgb.Booster(model_file='../export_model/model_lightgbm.txt')
+#
+# # Load XGBoost
+# model = xgb.XGBClassifier()
+# model.load_model('../export_model/model_xgboost.json')
 
-# Active kalau ANN
+# Load ML model ANN
 model = load_model("../export_model/model_ann.h5")
 
 # Load Y Value Encoder
