@@ -1,446 +1,251 @@
-,produk,umur,domisili,gender,status_perkawinan,profesi,tujuan,penghasilan,persentase_tabungan,rate_fungsionalitas,rate_admin,rate_limit,rate_bunga,rate_setoran_awal,rate_kebutuhan
-0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3.0,4.0,4.0,3.0,1.0,3.0
-1,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,2.0,3.0,2.0,2.0,3.0
-2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4.0,3.0,4.0,3.0,1.0,4.0
-3,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,10-20%,3.0,3.0,3.0,2.0,1.0,3.0
-4,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4.0,3.0,4.0,3.0,1.0,3.0
-5,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,2.0,3.0,3.0,1.0,4.0
-6,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,3.0,4.0,3.0,1.0,4.0
-7,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4.0,4.0,4.0,4.0,2.0,4.0
-8,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4.0,3.0,3.0,2.0,2.0,3.0
-9,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3.0,3.0,4.0,3.0,2.0,3.0
-10,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,5-10%,3.0,3.0,4.0,3.0,1.0,3.0
-11,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3.0,3.0,4.0,3.0,3.0,3.0
-12,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3.0,4.0,4.0,3.0,1.0,4.0
-13,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,3.0,4.0,4.0,1.0,2.0,3.0
-14,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,3.0,3.0,3.0,3.0,2.0,3.0
-15,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,2.0,4.0,2.0,2.0,3.0
-16,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4.0,4.0,4.0,4.0,4.0,4.0
-17,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%,3.0,3.0,3.0,2.0,2.0,3.0
-18,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3.0,3.0,3.0,3.0,2.0,4.0
-19,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,20-30%,4.0,4.0,1.0,2.0,1.0,3.0
-20,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,4.0,4.0,2.0,1.0,4.0
-21,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3.0,3.0,4.0,3.0,2.0,3.0
-22,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4.0,4.0,2.0,2.0,1.0,3.0
-23,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%,4.0,4.0,4.0,1.0,1.0,3.0
-24,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3.0,1.0,4.0,1.0,1.0,4.0
-25,Tabungan Berjangka,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%,4.0,3.0,3.0,3.0,1.0,4.0
-26,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,3.0,2.0,3.0,1.0,3.0
-27,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,1-5%,4.0,4.0,4.0,2.0,3.0,2.0
-28,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-29,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4.0,4.0,4.0,4.0,2.0,4.0
-30,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3.0,3.0,3.0,3.0,2.0,3.0
-31,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3.0,3.0,3.0,3.0,3.0,3.0
-32,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,4.0,4.0,2.0,3.0,4.0
-33,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,4.0,4.0,4.0,3.0,1.0,4.0
-34,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,4.0,4.0,2.0,1.0,4.0
-35,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4.0,4.0,4.0,4.0,4.0,4.0
-36,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,4.0,3.0,3.0,3.0,4.0
-37,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,5-10%,4.0,4.0,4.0,4.0,1.0,4.0
-38,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,3.0,4.0,4.0,1.0,4.0
-39,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3.0,3.0,3.0,3.0,1.0,3.0
-40,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%,3.0,3.0,3.0,3.0,2.0,3.0
-41,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,> 20 juta,5-10%,3.0,3.0,3.0,1.0,2.0,3.0
-42,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,4.0,4.0,4.0,1.0,4.0
-43,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,> 30%,2.0,3.0,3.0,3.0,1.0,3.0
-44,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,4.0,3.0,4.0,1.0,1.0,3.0
-45,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,1-5%,3.0,4.0,3.0,1.0,2.0,3.0
-46,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,3.0,3.0,4.0,3.0,3.0
-47,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3.0,2.0,3.0,3.0,3.0,3.0
-48,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,0%,3.0,2.0,3.0,2.0,3.0,2.0
-49,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-50,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,3.0,4.0,3.0,3.0,1.0,3.0
-51,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3.0,2.0,4.0,1.0,1.0,3.0
-52,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4.0,4.0,4.0,4.0,2.0,4.0
-53,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,3.0,4.0,4.0,1.0,3.0
-54,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,4.0,4.0,4.0,2.0
-55,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3.0,4.0,4.0,2.0,1.0,3.0
-56,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,2.0,2.0,2.0,2.0,2.0,3.0
-57,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,2.0,1.0,2.0,2.0,3.0,3.0
-58,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2.0,2.0,3.0,3.0,4.0,2.0
-59,Tabungan Medium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%,3.0,3.0,3.0,3.0,2.0,3.0
-60,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,4.0,4.0,4.0,4.0,1.0,3.0
-61,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-62,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-63,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3.0,3.0,3.0,1.0,1.0,3.0
-64,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,3.0,4.0,4.0,1.0,4.0
-65,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Lainnya,Investasi,< 1 juta,1-5%,2.0,2.0,2.0,1.0,1.0,3.0
-66,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3.0,4.0,3.0,3.0,1.0,3.0
-67,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4.0,3.0,4.0,4.0,4.0,3.0
-68,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-69,TabunganKu,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,3.0,2.0,4.0,2.0,2.0,4.0
-70,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-71,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3.0,3.0,3.0,3.0,2.0,3.0
-72,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4.0,4.0,4.0,4.0,1.0,4.0
-73,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3.0,2.0,3.0,4.0,2.0,4.0
-74,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%,4.0,4.0,4.0,3.0,1.0,3.0
-75,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3.0,4.0,3.0,3.0,2.0,3.0
-76,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3.0,3.0,4.0,4.0,1.0,3.0
-77,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,5-10%,4.0,4.0,4.0,2.0,1.0,4.0
-78,Tabungan Regular,> 55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Lainnya,15-20 juta,20-30%,4.0,4.0,4.0,4.0,4.0,4.0
-79,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,> 20 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-80,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%,4.0,4.0,4.0,1.0,1.0,4.0
-81,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4.0,4.0,4.0,1.0,1.0,4.0
-82,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,3.0,1.0,3.0,1.0,4.0,2.0
-83,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3.0,3.0,4.0,2.0,1.0,3.0
-84,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,> 20 juta,20-30%,4.0,1.0,4.0,1.0,1.0,2.0
-85,Tabungan Premium,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,> 30%,3.0,3.0,4.0,3.0,1.0,3.0
-86,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4.0,4.0,4.0,1.0,1.0,4.0
-87,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4.0,4.0,4.0,2.0,1.0,4.0
-88,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4.0,4.0,4.0,1.0,1.0,4.0
-89,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,3.0,3.0,2.0,2.0,2.0
-90,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3.0,3.0,3.0,3.0,2.0,2.0
-91,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-92,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4.0,4.0,4.0,3.0,2.0,4.0
-93,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",> 20 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-94,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%,4.0,4.0,4.0,4.0,4.0,4.0
-95,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,5-10 juta,10-20%,3.0,3.0,3.0,3.0,3.0,3.0
-96,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,10-20%,4.0,1.0,3.0,4.0,3.0,3.0
-97,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,3.0,2.0,3.0,1.0,3.0
-98,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-99,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-100,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4.0,4.0,4.0,2.0,3.0,4.0
-101,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4.0,4.0,4.0,4.0,4.0,4.0
-102,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-103,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4.0,3.0,3.0,4.0,2.0,4.0
-104,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-105,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,4.0,4.0,4.0,3.0,1.0,4.0
-106,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,20-30%,3.0,4.0,4.0,4.0,2.0,4.0
-107,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,4.0,4.0,4.0,1.0,1.0,4.0
-108,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,10-20%,4.0,4.0,4.0,2.0,1.0,4.0
-109,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,3.0,4.0,4.0,2.0,1.0,4.0
-110,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,5-10%,2.0,3.0,4.0,3.0,1.0,3.0
-111,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,4.0,3.0,4.0,3.0,1.0,4.0
-112,Tabungan Regular,> 55 tahun,Non Jabodetabek,Laki-laki,Kawin,Lainnya,Investasi,> 20 juta,5-10%,4.0,4.0,4.0,1.0,1.0,4.0
-113,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Lainnya",< 1 juta,5-10%,4.0,3.0,4.0,2.0,1.0,4.0
-114,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3.0,4.0,4.0,4.0,1.0,3.0
-115,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%,4.0,1.0,4.0,4.0,1.0,4.0
-116,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,3.0,4.0,3.0,1.0,3.0
-117,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,5-10%,4.0,3.0,3.0,3.0,1.0,4.0
-118,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pelajar,Kegiatan sehari-hari,1-5 juta,0%,3.0,3.0,3.0,3.0,1.0,3.0
-119,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,10-20%,3.0,3.0,3.0,2.0,2.0,3.0
-120,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-121,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%,4.0,4.0,3.0,4.0,3.0,4.0
-122,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2.0,3.0,3.0,4.0,1.0,3.0
-123,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,2.0,3.0,4.0,1.0,4.0
-124,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,4.0,4.0,3.0,1.0,4.0
-125,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-126,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4.0,4.0,3.0,3.0,3.0,3.0
-127,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4.0,3.0,4.0,4.0,1.0,4.0
-128,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3.0,2.0,4.0,1.0,1.0,4.0
-129,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,"Investasi, Kegiatan sehari-hari",< 1 juta,10-20%,4.0,3.0,4.0,4.0,1.0,4.0
-130,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,20-30%,4.0,2.0,3.0,3.0,3.0,3.0
-131,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-132,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,2.0,4.0,3.0,2.0,1.0,3.0
-133,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,3.0,3.0,2.0,1.0,3.0
-134,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%,4.0,4.0,4.0,2.0,2.0,3.0
-135,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,4.0,2.0,2.0,1.0,2.0,3.0
-136,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3.0,3.0,4.0,2.0,1.0,4.0
-137,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Lainnya,5-10 juta,10-20%,3.0,3.0,3.0,3.0,1.0,3.0
-138,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3.0,2.0,1.0,3.0,1.0,3.0
-139,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,3.0,4.0,3.0,1.0,4.0
-140,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,1.0,3.0,3.0,3.0,3.0
-141,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,1-5 juta,5-10%,3.0,3.0,3.0,1.0,1.0,3.0
-142,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4.0,2.0,3.0,3.0,2.0,3.0
-143,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,1-5%,4.0,4.0,4.0,3.0,1.0,4.0
-144,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,3.0,4.0,2.0,1.0,4.0
-145,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4.0,3.0,2.0,3.0,1.0,4.0
-146,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,3.0,3.0,3.0,2.0,4.0
-147,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%,2.0,3.0,3.0,1.0,4.0,3.0
-148,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,4.0,4.0,3.0,1.0,3.0
-149,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,4.0,3.0,4.0,4.0,1.0,4.0
-150,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Lainnya,1-5 juta,5-10%,3.0,4.0,4.0,3.0,2.0,4.0
-151,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3.0,3.0,3.0,3.0,2.0,3.0
-152,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,4.0,3.0,2.0,1.0,3.0
-153,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pengusaha,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-154,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4.0,4.0,4.0,4.0,1.0,4.0
-155,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4.0,3.0,4.0,2.0,1.0,4.0
-156,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,3.0,3.0,3.0,3.0,2.0,3.0
-157,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,> 30%,4.0,3.0,4.0,1.0,3.0,3.0
-158,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-159,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,3.0,4.0,4.0,3.0,3.0,2.0
-160,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,3.0,4.0,3.0,4.0,1.0,4.0
-161,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,4.0,4.0,4.0,4.0,4.0
-162,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,5-10%,4.0,3.0,3.0,3.0,2.0,3.0
-163,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3.0,4.0,4.0,3.0,2.0,4.0
-164,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,5-10%,3.0,2.0,3.0,2.0,3.0,3.0
-165,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,3.0,3.0,4.0,3.0,1.0,3.0
-166,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,4.0,3.0,3.0,2.0,1.0,3.0
-167,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",10-15 juta,20-30%,2.0,2.0,3.0,3.0,2.0,3.0
-168,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4.0,2.0,4.0,2.0,3.0,3.0
-169,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3.0,2.0,4.0,4.0,1.0,3.0
-170,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,2.0,4.0,4.0,3.0,1.0,3.0
-171,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,3.0,2.0,3.0,1.0,2.0,3.0
-172,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,3.0,4.0,2.0,1.0,4.0
-173,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,3.0,3.0,2.0,1.0,3.0
-174,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,4.0,4.0,1.0,1.0,4.0
-175,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4.0,3.0,4.0,1.0,1.0,3.0
-176,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3.0,3.0,2.0,3.0,2.0,3.0
-177,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,10-20%,4.0,4.0,4.0,2.0,1.0,4.0
-178,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,3.0,4.0,2.0,2.0,3.0
-179,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3.0,2.0,4.0,1.0,1.0,3.0
-180,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,2.0,3.0,2.0,1.0,4.0
-181,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-182,Tabungan Medium,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,3.0,2.0,3.0,1.0,2.0,3.0
-183,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",10-15 juta,1-5%,4.0,4.0,4.0,3.0,1.0,3.0
-184,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,4.0,2.0,2.0,1.0,2.0,3.0
-185,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",10-15 juta,10-20%,4.0,3.0,2.0,1.0,1.0,3.0
-186,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3.0,2.0,3.0,2.0,3.0,3.0
-187,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-188,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-189,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,2.0,4.0,2.0,1.0,4.0
-190,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,2.0,1.0,2.0,1.0,2.0
-191,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4.0,4.0,4.0,3.0,1.0,4.0
-192,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3.0,3.0,4.0,3.0,2.0,3.0
-193,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,3.0,3.0,4.0,2.0,1.0,4.0
-194,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-195,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%,4.0,4.0,4.0,4.0,1.0,4.0
-196,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-197,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%,3.0,3.0,3.0,3.0,2.0,4.0
-198,Tabungan Premium,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%,4.0,4.0,4.0,2.0,1.0,4.0
-199,Tabungan Anak Muda,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Lainnya",> 20 juta,20-30%,3.0,2.0,4.0,4.0,1.0,4.0
-200,Tabungan Online,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",> 20 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-201,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4.0,4.0,4.0,3.0,1.0,3.0
-202,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,5-10%,3.0,2.0,3.0,2.0,2.0,2.0
-203,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4.0,4.0,4.0,3.0,1.0,4.0
-204,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,3.0,3.0,3.0,4.0,3.0
-205,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%,3.0,2.0,3.0,2.0,3.0,3.0
-206,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4.0,3.0,4.0,4.0,1.0,4.0
-207,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,3.0,3.0,3.0,3.0,2.0,3.0
-208,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%,4.0,4.0,4.0,2.0,1.0,4.0
-209,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,20-30%,4.0,4.0,4.0,4.0,4.0,4.0
-210,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,3.0,2.0,4.0
-211,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,3.0,4.0,2.0,4.0
-212,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3.0,3.0,3.0,2.0,1.0,3.0
-213,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,3.0,3.0,3.0,2.0,2.0,3.0
-214,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4.0,3.0,4.0,4.0,1.0,4.0
-215,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4.0,2.0,4.0,4.0,2.0,3.0
-216,Tabungan Premium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,3.0,3.0,2.0,1.0,3.0
-217,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,2.0,1.0,2.0,1.0,3.0
-219,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,2.0,3.0,2.0,1.0,3.0
-220,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3.0,3.0,4.0,3.0,1.0,4.0
-221,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-222,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,4.0,4.0,3.0,1.0,4.0
-223,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4.0,3.0,4.0,3.0,2.0,4.0
-224,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3.0,3.0,3.0,4.0,2.0,4.0
-225,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3.0,4.0,3.0,3.0,1.0,3.0
-226,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3.0,2.0,3.0,3.0,1.0,3.0
-227,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4.0,3.0,3.0,3.0,2.0,3.0
-228,Tabungan Medium,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,4.0,3.0,2.0,3.0,3.0
-229,Tabungan Medium,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",> 20 juta,20-30%,3.0,3.0,4.0,1.0,2.0,3.0
-230,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,3.0,4.0,3.0,1.0,4.0
-231,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3.0,3.0,4.0,3.0,2.0,3.0
-232,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,2.0,3.0,3.0,3.0,3.0
-233,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%,4.0,4.0,4.0,4.0,2.0,3.0
-234,Tabungan Premium,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%,4.0,3.0,4.0,4.0,1.0,4.0
-235,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,10-20%,4.0,4.0,3.0,3.0,1.0,4.0
-236,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%,3.0,3.0,3.0,3.0,3.0,3.0
-237,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3.0,3.0,3.0,3.0,3.0,3.0
-238,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,3.0,2.0,4.0,3.0,2.0,3.0
-239,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,3.0,4.0,4.0
-241,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,3.0,2.0,4.0,3.0,1.0,4.0
-242,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-243,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,4.0,3.0,3.0,2.0,4.0
-244,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,4.0,3.0,3.0,2.0,3.0
-245,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,3.0,4.0,2.0,2.0,4.0
-246,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,4.0,4.0,4.0,3.0,1.0,3.0
-247,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-248,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4.0,4.0,4.0,1.0,1.0,4.0
-249,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Kegiatan sehari-hari, Lainnya",5-10 juta,1-5%,4.0,4.0,4.0,3.0,1.0,4.0
-250,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,20-30%,4.0,4.0,3.0,3.0,4.0,4.0
-251,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,> 30%,3.0,2.0,3.0,3.0,1.0,3.0
-252,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,1-5%,2.0,2.0,2.0,2.0,3.0,3.0
-253,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,10-15 juta,1-5%,3.0,3.0,3.0,2.0,4.0,3.0
-254,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,> 30%,2.0,2.0,3.0,2.0,2.0,3.0
-255,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%,3.0,3.0,3.0,2.0,2.0,3.0
-256,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,5-10%,2.0,3.0,3.0,3.0,1.0,2.0
-257,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,3.0,4.0,3.0,1.0,4.0
-258,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-259,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%,4.0,4.0,4.0,4.0,1.0,4.0
-260,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,3.0,4.0,2.0,1.0,3.0
-261,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-262,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%,3.0,4.0,3.0,2.0,1.0,3.0
-263,Tabungan Online,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,2.0,4.0,1.0,3.0,4.0
-264,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-265,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%,4.0,3.0,3.0,3.0,1.0,3.0
-266,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,1-5%,3.0,3.0,3.0,3.0,2.0,4.0
-267,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3.0,3.0,4.0,2.0,2.0,3.0
-268,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,2.0,3.0,3.0,2.0,3.0
-269,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%,4.0,3.0,3.0,3.0,1.0,3.0
-270,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,10-20%,3.0,2.0,4.0,2.0,2.0,3.0
-271,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,1-5 juta,10-20%,4.0,3.0,4.0,1.0,1.0,4.0
-272,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%,4.0,4.0,4.0,4.0,4.0,4.0
-273,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,2.0,1.0,3.0
-274,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,4.0,4.0,3.0,2.0,3.0
-275,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,4.0,1.0,4.0,2.0,3.0
-276,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%,3.0,3.0,3.0,3.0,2.0,3.0
-277,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,4.0,4.0,3.0,3.0,4.0
-278,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-279,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,4.0,3.0,4.0,2.0,2.0,3.0
-280,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%,3.0,3.0,3.0,3.0,3.0,3.0
-281,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-282,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3.0,3.0,4.0,2.0,1.0,3.0
-283,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,3.0,3.0,2.0,1.0,3.0
-284,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-285,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,3.0,4.0,4.0,1.0,4.0
-286,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,3.0,4.0,4.0,1.0,4.0
-287,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,3.0,4.0,3.0,1.0,4.0
-288,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,> 30%,3.0,4.0,3.0,2.0,1.0,3.0
-289,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%,4.0,4.0,4.0,3.0,1.0,3.0
-290,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,3.0,4.0,3.0,1.0,3.0
-291,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%,4.0,4.0,4.0,4.0,1.0,4.0
-292,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3.0,1.0,3.0,2.0,1.0,3.0
-293,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3.0,3.0,3.0,2.0,3.0,2.0
-294,Tabungan Pelajar,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%,3.0,3.0,3.0,3.0,3.0,3.0
-295,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,> 30%,4.0,3.0,4.0,3.0,2.0,4.0
-296,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,4.0,4.0,4.0,1.0,4.0
-297,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,4.0,2.0,3.0
-298,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-299,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,2.0,1.0,3.0
-300,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3.0,3.0,4.0,3.0,1.0,4.0
-301,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3.0,3.0,4.0,3.0,1.0,4.0
-302,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,3.0,4.0,4.0,1.0,4.0
-303,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,3.0,4.0,1.0,1.0,4.0
-304,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,3.0,3.0,2.0,1.0,3.0
-305,Tabungan Berjangka,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,10-20%,4.0,4.0,4.0,3.0,1.0,4.0
-306,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,3.0,3.0,3.0,1.0,3.0
-307,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4.0,4.0,4.0,2.0,2.0,3.0
-308,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,4.0,4.0,4.0,1.0,4.0
-309,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,3.0,3.0,3.0,2.0,3.0
-311,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,10-20%,4.0,3.0,3.0,3.0,3.0,3.0
-312,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,20-30%,3.0,4.0,4.0,3.0,2.0,4.0
-313,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-314,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%,4.0,3.0,4.0,3.0,1.0,4.0
-315,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3.0,3.0,3.0,3.0,2.0,4.0
-316,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,3.0,3.0,2.0,2.0,2.0,2.0
-317,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-318,Tabungan Pelajar,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,4.0,3.0,1.0,3.0
-319,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,2.0,4.0,3.0,2.0,3.0
-320,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4.0,4.0,4.0,4.0,2.0,4.0
-321,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,2.0,1.0,3.0,1.0,2.0,3.0
-322,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3.0,3.0,4.0,4.0,1.0,4.0
-323,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4.0,4.0,4.0,1.0,2.0,3.0
-324,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,3.0,3.0,3.0,3.0,3.0,3.0
-325,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,3.0,3.0,4.0,1.0,4.0
-326,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,20-30%,4.0,3.0,3.0,3.0,1.0,3.0
-327,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,3.0,1.0,4.0,3.0,2.0,3.0
-328,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-329,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3.0,3.0,3.0,3.0,2.0,4.0
-330,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,4.0,3.0,4.0,3.0,2.0,3.0
-331,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,4.0,3.0,3.0,3.0,2.0,3.0
-332,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,4.0,4.0,4.0,2.0,4.0
-333,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,> 30%,4.0,3.0,4.0,2.0,1.0,3.0
-334,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-335,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,3.0,4.0,4.0,4.0,1.0,4.0
-336,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,3.0,3.0,1.0,1.0,3.0
-337,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,0%,4.0,3.0,4.0,3.0,3.0,3.0
-338,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-339,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3.0,3.0,3.0,2.0,1.0,3.0
-340,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,3.0,3.0,3.0,3.0,1.0,3.0
-341,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,3.0,3.0,2.0,1.0,3.0
-342,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,2.0,3.0,2.0,1.0,4.0
-343,Tabungan Premium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-345,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-346,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4.0,4.0,4.0,4.0,1.0,4.0
-347,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",< 1 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-348,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",< 1 juta,20-30%,3.0,3.0,4.0,3.0,1.0,4.0
-349,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%,3.0,4.0,4.0,3.0,1.0,4.0
-350,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,2.0,4.0,2.0,2.0,3.0
-351,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,0%,4.0,3.0,3.0,3.0,2.0,3.0
-352,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%,4.0,1.0,4.0,2.0,1.0,3.0
-353,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%,3.0,4.0,4.0,4.0,1.0,3.0
-354,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,1.0,1.0,1.0,1.0,1.0,1.0
-355,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,10-20%,3.0,4.0,1.0,4.0,1.0,4.0
-356,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3.0,3.0,3.0,2.0,1.0,3.0
-357,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,3.0,2.0,2.0,3.0
-358,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,1-5%,4.0,4.0,4.0,4.0,4.0,4.0
-359,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,4.0,3.0,4.0,3.0,2.0,4.0
-360,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,4.0,4.0,1.0,1.0,4.0
-361,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,3.0,3.0,3.0,2.0,4.0
-362,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,2.0,3.0,2.0,3.0,3.0,3.0
-363,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%,4.0,4.0,4.0,4.0,1.0,4.0
-364,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,3.0,4.0,2.0,3.0,4.0
-365,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,3.0,2.0,3.0,3.0,2.0,3.0
-366,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3.0,3.0,3.0,2.0,2.0,3.0
-367,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%,3.0,1.0,3.0,2.0,1.0,3.0
-368,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,3.0,2.0,4.0,2.0,2.0,3.0
-369,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,3.0,3.0,2.0,2.0,4.0
-370,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,3.0,2.0,4.0,3.0,2.0,4.0
-371,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,4.0,4.0,3.0,1.0,4.0
-372,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%,4.0,3.0,4.0,4.0,2.0,3.0
-373,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,4.0,3.0,1.0,4.0
-374,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%,3.0,2.0,2.0,3.0,3.0,3.0
-375,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,1-5%,4.0,4.0,4.0,4.0,4.0,4.0
-376,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,0%,3.0,1.0,3.0,2.0,1.0,3.0
-377,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,10-20%,3.0,4.0,3.0,3.0,1.0,3.0
-378,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3.0,2.0,3.0,2.0,2.0,2.0
-379,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%,3.0,4.0,4.0,3.0,3.0,3.0
-380,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%,4.0,3.0,3.0,3.0,1.0,3.0
-381,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,4.0,3.0,2.0,1.0,4.0
-382,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-383,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Pengusaha,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,20-30%,1.0,3.0,3.0,3.0,2.0,4.0
-384,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-385,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3.0,3.0,4.0,3.0,2.0,3.0
-386,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,3.0,3.0,4.0,4.0,1.0,4.0
-387,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,3.0,4.0,1.0,1.0,4.0
-388,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%,3.0,4.0,4.0,4.0,1.0,4.0
-389,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4.0,4.0,4.0,2.0,1.0,4.0
-390,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%,3.0,3.0,3.0,2.0,2.0,3.0
-391,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%,3.0,3.0,3.0,3.0,1.0,3.0
-392,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,20-30%,4.0,4.0,4.0,4.0,4.0,4.0
-393,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%,4.0,3.0,3.0,3.0,1.0,4.0
-394,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,3.0,4.0,2.0,3.0,3.0
-395,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,20-30%,4.0,4.0,4.0,1.0,1.0,3.0
-396,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%,4.0,4.0,4.0,3.0,1.0,4.0
-397,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%,4.0,4.0,4.0,4.0,1.0,4.0
-398,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%,3.0,3.0,3.0,3.0,1.0,3.0
-399,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-400,Tabungan Berjangka,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,10-20%,4.0,4.0,4.0,3.0,4.0,3.0
-401,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,> 30%,4.0,4.0,3.0,3.0,1.0,3.0
-402,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,> 30%,3.0,4.0,4.0,4.0,2.0,4.0
-403,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%,1.0,2.0,2.0,2.0,4.0,2.0
-404,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pengusaha,Simpanan jangka panjang,< 1 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-405,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,5-10%,4.0,4.0,4.0,4.0,2.0,4.0
-406,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,4.0,4.0,4.0,1.0,2.0,3.0
-407,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4.0,4.0,4.0,2.0,1.0,4.0
-408,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,2.0,1.0,2.0,1.0,4.0
-409,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,4.0,3.0,3.0,2.0,4.0
-410,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%,3.0,3.0,3.0,3.0,2.0,3.0
-411,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,4.0,4.0,1.0,4.0
-412,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,4.0,3.0,3.0,3.0,1.0,4.0
-413,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%,4.0,4.0,4.0,3.0,1.0,4.0
-414,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,Kegiatan sehari-hari,10-15 juta,10-20%,3.0,3.0,3.0,3.0,3.0,3.0
-415,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,4.0,4.0,4.0,4.0
-416,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%,3.0,3.0,2.0,2.0,3.0,3.0
-417,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,0%,3.0,3.0,4.0,1.0,1.0,3.0
-418,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,20-30%,4.0,4.0,4.0,4.0,1.0,3.0
-419,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3.0,4.0,3.0,4.0,4.0,3.0
-420,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-421,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,2.0,2.0,3.0,3.0,2.0,3.0
-422,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,4.0,4.0,4.0,4.0,4.0
-423,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%,2.0,3.0,4.0,2.0,1.0,3.0
-425,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%,4.0,4.0,4.0,3.0,1.0,4.0
-426,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%,4.0,4.0,4.0,3.0,1.0,3.0
-427,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,1-5 juta,10-20%,3.0,3.0,3.0,3.0,3.0,2.0
-428,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,5-10%,2.0,3.0,3.0,1.0,1.0,2.0
-429,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%,3.0,3.0,3.0,3.0,3.0,3.0
-430,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,4.0,4.0,2.0,4.0,1.0,3.0
-431,Tabungan Regular,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,Lainnya,< 1 juta,0%,2.0,2.0,2.0,2.0,3.0,2.0
-432,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%,4.0,4.0,4.0,1.0,1.0,3.0
-433,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%,4.0,4.0,4.0,1.0,1.0,4.0
-434,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%,2.0,2.0,3.0,1.0,2.0,2.0
-435,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%,4.0,3.0,3.0,3.0,1.0,4.0
-436,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%,3.0,3.0,3.0,3.0,2.0,3.0
-437,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%,4.0,3.0,3.0,3.0,2.0,3.0
-438,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,< 1 juta,10-20%,4.0,4.0,4.0,4.0,2.0,4.0
-439,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,10-15 juta,> 30%,3.0,3.0,3.0,1.0,3.0,3.0
-440,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%,3.0,3.0,2.0,3.0,3.0,2.0
-441,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,3.0,3.0,4.0,4.0,2.0,3.0
-442,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%,3.0,3.0,3.0,3.0,1.0,4.0
-443,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,4.0,4.0,4.0,4.0,3.0,3.0
-444,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%,3.0,3.0,3.0,2.0,1.0,3.0
-445,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%,3.0,3.0,3.0,3.0,3.0,3.0
-446,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%,3.0,3.0,3.0,3.0,1.0,3.0
-447,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,< 1 juta,> 30%,4.0,4.0,4.0,4.0,4.0,4.0
-448,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%,4.0,4.0,4.0,4.0,2.0,3.0
-449,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%,4.0,2.0,4.0,3.0,1.0,4.0
+,produk,umur,domisili,gender,status_perkawinan,profesi,tujuan,penghasilan,persentasi_tabungan
+0,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
+2,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%
+4,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%
+6,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+7,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,20-30%
+9,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%
+10,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,5-10%
+11,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%
+12,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+14,Tabungan Medium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%
+16,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%
+18,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%
+21,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%
+25,Tabungan Berjangka,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,15-20 juta,10-20%
+28,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+29,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%
+30,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%
+31,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%
+33,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%
+35,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%
+36,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+37,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",15-20 juta,5-10%
+38,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%
+39,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
+40,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%
+42,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%
+46,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%
+49,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+50,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%
+52,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%
+53,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+59,Tabungan Medium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%
+60,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%
+61,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%
+62,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%
+64,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+66,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%
+67,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%
+68,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%
+70,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,> 30%
+71,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+72,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%
+74,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,5-10%
+75,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%
+76,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+78,Tabungan Regular,> 55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Lainnya,15-20 juta,20-30%
+79,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,> 20 juta,> 30%
+85,Tabungan Premium,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,> 30%
+91,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%
+92,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,5-10%
+93,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",> 20 juta,20-30%
+94,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,1-5%
+95,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Investasi,5-10 juta,10-20%
+98,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,20-30%
+99,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,20-30%
+101,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%
+102,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,1-5 juta,10-20%
+103,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+104,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%
+105,Tabungan Berjangka,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%
+106,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",> 20 juta,20-30%
+111,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,5-10%
+114,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+116,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%
+117,Tabungan Regular,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,5-10%
+118,Tabungan Medium,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pelajar,Kegiatan sehari-hari,1-5 juta,0%
+120,Tabungan Regular,30-55 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%
+121,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,10-20%
+124,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
+125,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+126,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+127,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%
+129,Tabungan Anak Muda,12-17 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Pelajar,"Investasi, Kegiatan sehari-hari",< 1 juta,10-20%
+131,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%
+137,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Lainnya,5-10 juta,10-20%
+139,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+143,Tabungan Regular,30-55 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,1-5%
+146,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+148,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+149,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%
+150,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Lainnya,1-5 juta,5-10%
+151,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+153,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pengusaha,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+154,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+156,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%
+158,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,> 20 juta,> 30%
+160,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%
+161,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%
+162,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,5-10%
+163,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+165,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,10-20%
+181,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%
+183,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",10-15 juta,1-5%
+187,Tabungan Online,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+188,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%
+191,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+192,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+194,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+195,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,10-20%
+196,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,5-10%
+197,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,5-10%
+200,Tabungan Online,30-55 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",> 20 juta,20-30%
+201,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%
+203,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%
+204,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+206,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%
+207,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%
+209,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,20-30%
+210,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+211,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,> 30%
+214,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%
+220,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
+221,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+222,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+223,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%
+224,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+225,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+227,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+230,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+231,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
+233,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,> 30%
+234,Tabungan Premium,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,15-20 juta,20-30%
+235,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Investasi,15-20 juta,10-20%
+236,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",1-5 juta,> 30%
+237,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%
+239,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+242,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%
+243,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,5-10%
+244,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+246,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+247,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,> 30%
+249,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Kegiatan sehari-hari, Lainnya",5-10 juta,1-5%
+250,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,20-30%
+257,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%
+258,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,> 30%
+259,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%
+261,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%
+264,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+265,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%
+266,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,1-5%
+269,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,1-5%
+272,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari, Lainnya",5-10 juta,5-10%
+274,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+276,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,20-30%
+277,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,> 30%
+278,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,20-30%
+280,Tabungan Berjangka,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,1-5%
+281,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+284,Tabungan Regular,30-55 tahun,Jabodetabek,Perempuan,Kawin,Karyawan Swasta,Kegiatan sehari-hari,10-15 juta,10-20%
+285,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%
+286,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%
+287,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+289,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,10-20%
+290,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%
+291,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,10-15 juta,10-20%
+294,Tabungan Pelajar,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",5-10 juta,10-20%
+295,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,> 30%
+296,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+297,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+298,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,20-30%
+300,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+301,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+302,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+305,Tabungan Berjangka,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,10-20%
+306,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%
+308,Tabungan Online,30-55 tahun,Non Jabodetabek,Perempuan,Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%
+309,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%
+311,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,10-20%
+312,Tabungan Berjangka,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Simpanan jangka panjang,5-10 juta,20-30%
+313,Tabungan Berjangka,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,20-30%
+314,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,20-30%
+315,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%
+317,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+318,Tabungan Pelajar,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+320,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%
+322,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+324,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,10-20%
+325,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+326,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,5-10 juta,20-30%
+328,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+329,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+330,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+331,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%
+332,Tabungan Premium,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%
+334,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+335,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%
+337,Tabungan Pelajar,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,0%
+338,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+340,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+343,Tabungan Premium,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,10-20%
+345,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,10-20%
+346,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+347,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",< 1 juta,5-10%
+348,Tabungan Online,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang",< 1 juta,20-30%
+349,TabunganKu,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,1-5 juta,> 30%
+351,Tabungan Pelajar,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,0%
+353,TabunganKu,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,1-5 juta,> 30%
+358,Tabungan Regular,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Kegiatan sehari-hari",1-5 juta,1-5%
+359,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%
+361,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+363,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",10-15 juta,1-5%
+371,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+372,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,1-5%
+373,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+375,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Investasi,5-10 juta,1-5%
+377,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",10-15 juta,10-20%
+379,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,5-10%
+380,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,10-20%
+382,Tabungan Online,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+384,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+385,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+386,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%
+388,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,1-5%
+391,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,5-10%
+392,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,20-30%
+393,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,0%
+396,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,> 30%
+397,Tabungan Regular,17-21 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,20-30%
+398,Tabungan Anak Muda,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,> 30%
+399,Tabungan Berjangka,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",5-10 juta,> 30%
+400,Tabungan Berjangka,21-30 tahun,Non Jabodetabek,Laki-laki,Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",15-20 juta,10-20%
+401,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,> 30%
+402,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,Simpanan jangka panjang,5-10 juta,> 30%
+404,Tabungan Online,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Pengusaha,Simpanan jangka panjang,< 1 juta,5-10%
+405,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,5-10 juta,5-10%
+409,Tabungan Anak Muda,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+410,Tabungan Regular,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,1-5%
+411,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+412,Tabungan Online,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+413,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,1-5%
+414,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Lainnya,Kegiatan sehari-hari,10-15 juta,10-20%
+415,Tabungan Regular,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+418,Tabungan Regular,21-30 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Kegiatan sehari-hari, Lainnya",5-10 juta,20-30%
+419,Tabungan Online,17-21 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,> 30%
+420,TabunganKu,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,5-10%
+422,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+425,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",1-5 juta,20-30%
+426,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Kegiatan sehari-hari",5-10 juta,20-30%
+429,Tabungan Regular,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang",1-5 juta,5-10%
+435,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,"Simpanan jangka panjang, Kegiatan sehari-hari",< 1 juta,10-20%
+436,Tabungan Premium,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Investasi,1-5 juta,> 30%
+437,TabunganKu,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,< 1 juta,5-10%
+438,Tabungan Pelajar,17-21 tahun,Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Simpanan jangka panjang,< 1 juta,10-20%
+441,Tabungan Regular,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Karyawan Swasta,"Investasi, Simpanan jangka panjang, Kegiatan sehari-hari",5-10 juta,10-20%
+442,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Laki-laki,Belum Kawin,Lainnya,Kegiatan sehari-hari,1-5 juta,1-5%
+443,Tabungan Regular,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,20-30%
+445,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,> 30%
+446,Tabungan Anak Muda,17-21 tahun,Non Jabodetabek,Perempuan,Belum Kawin,Mahasiswa,Kegiatan sehari-hari,1-5 juta,10-20%
+447,Tabungan Pelajar,21-30 tahun,Non Jabodetabek,Laki-laki,Belum Kawin,Mahasiswa,Simpanan jangka panjang,< 1 juta,> 30%
+448,Tabungan Anak Muda,21-30 tahun,Jabodetabek,Perempuan,Belum Kawin,Karyawan Swasta,Kegiatan sehari-hari,5-10 juta,5-10%
