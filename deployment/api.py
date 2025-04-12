@@ -5,19 +5,23 @@ from typing import List
 import pickle
 import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
+from tensorflow.keras.models import load_model
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # 👈 untuk development, izinkan semua origin
+    allow_origins=["*"], #change buat limit akses API
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Load ML model
-model = pickle.load(open("../export_model/model_randomforest.pkl", "rb"))
+# # Load ML model
+# model = pickle.load(open("../export_model/model_svc.pkl", "rb"))
+
+# Active kalau ANN
+model = load_model("../export_model/model_ann.h5")
 
 # Load Y Value Encoder
 produk_encoder = pickle.load(open("../export_model/produk.pkl", "rb"))
@@ -48,12 +52,6 @@ class FormData(BaseModel):
     tujuan: Tujuan
     penghasilan: str
     persentase_tabungan: str
-    rate_fungsionalitas: int
-    rate_admin: int
-    rate_limit: int
-    rate_bunga: int
-    rate_setoran_awal: int
-    rate_kebutuhan: int
   
 # Response schemas
 class Recommendation(BaseModel):
@@ -93,22 +91,23 @@ def predict(data: FormData):
         kegiatan_sehari_hari = np.array([[data.tujuan.kegiatan_sehari_hari]])
         tujuan_lainnya = np.array([[data.tujuan.tujuan_lainnya]])
         
-        # Tambahan 
-        rate_fungsionalitas = np.array([[data.rate_fungsionalitas]])
-        rate_admin = np.array([[data.rate_admin]])
-        rate_limit = np.array([[data.rate_limit]])
-        rate_bunga = np.array([[data.rate_bunga]])
-        rate_setoran_awal = np.array([[data.rate_setoran_awal]])
-        rate_kebutuhan = np.array([[data.rate_kebutuhan]])
-        
         # Combine
-        X = np.hstack([umur, domisili, gender, status_perkawinan, profesi, investasi, simpanan_jangka_panjang, kegiatan_sehari_hari, tujuan_lainnya, penghasilan, persentase_tabungan, rate_fungsionalitas, rate_admin, rate_limit, rate_bunga, rate_setoran_awal, rate_kebutuhan])
+        X = np.hstack([umur, domisili, gender, status_perkawinan, profesi, investasi, simpanan_jangka_panjang, kegiatan_sehari_hari, tujuan_lainnya, penghasilan, persentase_tabungan])
         
-        # Predict
-        predict_result = model.predict(X)[0]
+        # Active jika ANN
+        X = np.array(X, dtype=np.float32).reshape(1, -1)
+        
+        # # Predict Model lain
+        # predict_result = model.predict(X)[0]
+        # predict_label = produk_encoder.inverse_transform([predict_result])[0]
+        # predict_compability = model.predict_proba(X)[0]
+        
+        
+        # Prodect Model ANN
+        predict_proba = model.predict(X)  # (1, 5)
+        predict_result = np.argmax(predict_proba, axis=1)[0]  # hasil index prediksi (misal 2)
         predict_label = produk_encoder.inverse_transform([predict_result])[0]
-        
-        predict_compability = model.predict_proba(X)[0]
+        predict_compability = predict_proba[0]
         
         top_3_indices = predict_compability.argsort()[-3:][::-1]
         top_3_classes = produk_encoder.inverse_transform(top_3_indices)
