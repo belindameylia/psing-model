@@ -20,17 +20,17 @@ app.add_middleware(
 )
 
 # # Load ML model RF, SVC, Extra Trees
-# model = pickle.load(open("../export_model/model_svc.pkl", "rb"))
-#
-# # Load LightGBM
-# model = lgb.Booster(model_file='../export_model/model_lightgbm.txt')
-#
+# model = pickle.load(open("../export_model/model_extratrees.pkl", "rb"))
+
+# Load LightGBM
+model = lgb.Booster(model_file='../export_model/model_lightgbm.txt')
+
 # # Load XGBoost
 # model = xgb.XGBClassifier()
 # model.load_model('../export_model/model_xgboost.json')
 
-# Load ML model ANN
-model = load_model("../export_model/model_ann.h5")
+# # Load ML model ANN
+# model = load_model("../export_model/model_ann.h5")
 
 # Load Y Value Encoder
 produk_encoder = pickle.load(open("../export_model/produk.pkl", "rb"))
@@ -103,7 +103,7 @@ def predict(data: FormData):
         # Combine
         X = np.hstack([umur, domisili, gender, status_perkawinan, profesi, investasi, simpanan_jangka_panjang, kegiatan_sehari_hari, tujuan_lainnya, penghasilan, persentase_tabungan])
         
-        # Active jika ANN
+        # Active jika ANN, LightGBM
         X = np.array(X, dtype=np.float32).reshape(1, -1)
         
         # # Predict Model lain
@@ -111,8 +111,7 @@ def predict(data: FormData):
         # predict_label = produk_encoder.inverse_transform([predict_result])[0]
         # predict_compability = model.predict_proba(X)[0]
         
-        
-        # Prodect Model ANN
+        # Predict Model ANN, LightGBM
         predict_proba = model.predict(X)  # (1, 5)
         predict_result = np.argmax(predict_proba, axis=1)[0]  # hasil index prediksi (misal 2)
         predict_label = produk_encoder.inverse_transform([predict_result])[0]
