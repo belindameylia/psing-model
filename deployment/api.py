@@ -20,7 +20,7 @@ app.add_middleware(
 )
 
 # # Load ML model RF, SVC, Extra Trees
-# model = pickle.load(open("../export_model/model_extratrees.pkl", "rb"))
+# model = pickle.load(open("../export_model/model_svc.pkl", "rb"))
 
 # Load LightGBM
 model = lgb.Booster(model_file='../export_model/model_lightgbm.txt')
