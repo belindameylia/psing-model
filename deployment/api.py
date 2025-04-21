@@ -45,7 +45,6 @@ penghasilan_encoder = pickle.load(open("../export_model/penghasilan.pkl", "rb"))
 persentase_tabungan_encoder = pickle.load(open("../export_model/persentase_tabungan.pkl", "rb"))
 
 # Request Schema
-
 class Tujuan(BaseModel):
     investasi: int
     simpanan_jangka_panjang: int
@@ -106,7 +105,7 @@ def predict(data: FormData):
         # Active jika ANN, LightGBM
         X = np.array(X, dtype=np.float32).reshape(1, -1)
         
-        # # Predict Model lain
+        # # Predict Model RF, 
         # predict_result = model.predict(X)[0]
         # predict_label = produk_encoder.inverse_transform([predict_result])[0]
         # predict_compability = model.predict_proba(X)[0]
