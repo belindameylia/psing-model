@@ -20,10 +20,10 @@ app.add_middleware(
 )
 
 # # Load ML model RF, SVC, Extra Trees
-# model = pickle.load(open("../export_model/model_svc.pkl", "rb"))
+model = pickle.load(open("../export_model/model_svc.pkl", "rb"))
 
 # Load LightGBM
-model = lgb.Booster(model_file='../export_model/model_lightgbm.txt')
+# model = lgb.Booster(model_file='../export_model/model_lightgbm.txt')
 
 # # Load XGBoost
 # model = xgb.XGBClassifier()
@@ -102,19 +102,19 @@ def predict(data: FormData):
         # Combine
         X = np.hstack([umur, domisili, gender, status_perkawinan, profesi, investasi, simpanan_jangka_panjang, kegiatan_sehari_hari, tujuan_lainnya, penghasilan, persentase_tabungan])
         
-        # Active jika ANN, LightGBM
-        X = np.array(X, dtype=np.float32).reshape(1, -1)
+        # # Active jika ANN, LightGBM
+        # X = np.array(X, dtype=np.float32).reshape(1, -1)
         
-        # # Predict Model RF, 
-        # predict_result = model.predict(X)[0]
-        # predict_label = produk_encoder.inverse_transform([predict_result])[0]
-        # predict_compability = model.predict_proba(X)[0]
-        
-        # Predict Model ANN, LightGBM
-        predict_proba = model.predict(X)  # (1, 5)
-        predict_result = np.argmax(predict_proba, axis=1)[0]  # hasil index prediksi (misal 2)
+        # Predict Model RF, SVC, EXTRA TREES 
+        predict_result = model.predict(X)[0]
         predict_label = produk_encoder.inverse_transform([predict_result])[0]
-        predict_compability = predict_proba[0]
+        predict_compability = model.predict_proba(X)[0]
+        
+        # # Predict Model ANN, LightGBM
+        # predict_proba = model.predict(X)  # (1, 5)
+        # predict_result = np.argmax(predict_proba, axis=1)[0]  # hasil index prediksi (misal 2)
+        # predict_label = produk_encoder.inverse_transform([predict_result])[0]
+        # predict_compability = predict_proba[0]
         
         top_3_indices = predict_compability.argsort()[-3:][::-1]
         top_3_classes = produk_encoder.inverse_transform(top_3_indices)
